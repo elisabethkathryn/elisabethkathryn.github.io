@@ -3,17 +3,19 @@
 
 # Site settings
 title: Elisabeth Kathryn
-description: |
-  <b>Parametric</b> \| Sustainable <br>
-  <b>Architecture Design</b> <br>
-
+description:
+  Parametric | Sustainable
+  Architecture Design
+subtitle:
+    Parametric | Sustainable <br>
+    Architecture Design <br>
 
 owner: Elisabeth Kathryn # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: elisabeth.kath@hotmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "elisabethkathryn.github.io" # the base hostname & protocol for your site
-theme: spectral
+# theme: spectral
 # social:
 #   twitter: https://twitter.com/<username>
 #   github: https://github.com/<username>
@@ -59,5 +61,3 @@ theme: spectral
 markdown: kramdown
 #sass:
 #  style: compressed
-
-theme: jekyll-theme-cayman

@@ -2,13 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elisabeth Kathryn</title>
-    <description>&lt;b&gt;Parametric&lt;/b&gt;\| Sustainable &lt;br&gt;
-&lt;b&gt;Architecture Design&lt;/b&gt; &lt;br&gt;
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2019 04:18:32 -0500</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2019 04:18:32 -0500</lastBuildDate>
+    <description>Parametric | Sustainable Architecture Design</description>
+    <link>elisabethkathryn.github.io/</link>
+    <atom:link href="elisabethkathryn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Sep 2019 12:11:42 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2019 12:11:42 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -16,8 +14,8 @@
         <description>&lt;p&gt;COMING SOON&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/nlp/2019/08/01/7.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nlp/2019/08/01/7.html</guid>
+        <link>elisabethkathryn.github.io/nlp/2019/08/01/7.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/7.html</guid>
         
         
         <category>NLP</category>
@@ -29,8 +27,8 @@
         <description>&lt;p&gt;COMING SOON&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/nlp/2019/08/01/6.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nlp/2019/08/01/6.html</guid>
+        <link>elisabethkathryn.github.io/nlp/2019/08/01/6.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/6.html</guid>
         
         
         <category>NLP</category>
@@ -42,8 +40,8 @@
         <description>&lt;p&gt;COMING SOON&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/nlp/2019/08/01/5.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nlp/2019/08/01/5.html</guid>
+        <link>elisabethkathryn.github.io/nlp/2019/08/01/5.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/5.html</guid>
         
         
         <category>NLP</category>
@@ -55,8 +53,8 @@
         <description>&lt;p&gt;COMING SOON&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/nlp/2019/08/01/4.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nlp/2019/08/01/4.html</guid>
+        <link>elisabethkathryn.github.io/nlp/2019/08/01/4.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/4.html</guid>
         
         
         <category>NLP</category>
@@ -68,8 +66,8 @@
         <description>&lt;p&gt;COMING SOON&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/nlp/2019/08/01/3.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nlp/2019/08/01/3.html</guid>
+        <link>elisabethkathryn.github.io/nlp/2019/08/01/3.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/3.html</guid>
         
         
         <category>NLP</category>
@@ -81,8 +79,8 @@
         <description>&lt;p&gt;COMING SOON&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/nlp/2019/08/01/2.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nlp/2019/08/01/2.html</guid>
+        <link>elisabethkathryn.github.io/nlp/2019/08/01/2.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/2.html</guid>
         
         
         <category>NLP</category>
@@ -94,8 +92,8 @@
         <description>&lt;p&gt;COMING SOON&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/nlp/2019/08/01/1.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nlp/2019/08/01/1.html</guid>
+        <link>elisabethkathryn.github.io/nlp/2019/08/01/1.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/1.html</guid>
         
         
         <category>NLP</category>

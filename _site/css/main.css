@@ -2621,8 +2621,7 @@ body.is-mobile #main > header {
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   background: rgba(254, 209, 54, 0.9);
-  /* Fallback when no plugin support */
-  background: rgba(254, 209, 54, 0.9); }
+  /* Fallback when no plugin support */ }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
   opacity: 1; }
