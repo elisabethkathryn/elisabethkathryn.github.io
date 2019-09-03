@@ -960,6 +960,21 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 /* Spotlight */
+.img-spotlight{
+	max-width: 5em;
+	margin:0 0 1em 0;
+}
+.img-spotlight-table{
+	@include vendor('order', '1');
+	border-radius: 0;
+	width: 30%;
+	margin: 9.5em 0 2em 0;
+	padding:  0 0 0 10em;
+	div {
+height:50%;
+width: 100%;
+}
+}
 
 	.spotlight {
 		@include vendor('align-items', 'center');
@@ -1740,7 +1755,7 @@ $baseurl: '{{ site.baseurl }}/images';
     right: 0;
 		max-width: 20em;
 		// max-width:100%;
-		max-height:20em;
+		max-height:24em;
 		// left:10;
 	  // margin: 0 -10px 15px;
 		// padding: 0 -10px 15px;

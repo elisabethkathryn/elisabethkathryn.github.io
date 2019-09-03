@@ -1841,6 +1841,23 @@ button,
           border-top: 0; } }
 
 /* Spotlight */
+.img-spotlight {
+  max-width: 5em;
+  margin: 0 0 1em 0; }
+
+.img-spotlight-table {
+  -moz-order: 1;
+  -webkit-order: 1;
+  -ms-order: 1;
+  order: 1;
+  border-radius: 0;
+  width: 30%;
+  margin: 9.5em 0 2em 0;
+  padding: 0 0 0 10em; }
+  .img-spotlight-table div {
+    height: 50%;
+    width: 100%; }
+
 .spotlight {
   -moz-align-items: center;
   -webkit-align-items: center;
@@ -2599,7 +2616,7 @@ body.is-mobile #main > header {
 #portfolio .portfolio-item {
   right: 0;
   max-width: 20em;
-  max-height: 20em; }
+  max-height: 24em; }
 
 #portfolio .portfolio-item .img-responsive {
   right: 0;
