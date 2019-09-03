@@ -1,0 +1,17 @@
+---
+title: Galapagos Optimization
+subtitle: Environmental Based Design Optimization
+layout: default
+modal-id: 4
+date: 2019/8/1
+img1: 4A.jpg
+img2: 4B.jpg
+thumbnail: 4.jpg
+alt: image-alt
+project-date: August 2019
+client: Start Bootstrap
+category: NLP
+description: Attempt to obtain NLP certificate on Udemy
+
+---
+COMING SOON

@@ -1,0 +1,17 @@
+---
+title: Voronoi Surface
+subtitle: Generative Modeling
+layout: default
+modal-id: 1
+date: 2019/8/1
+img1: 1A.jpg
+img2: 1B .jpg
+thumbnail: 1.jpg
+alt: image-alt
+project-date: August 2019
+client: Start Bootstrap
+category: NLP
+description: Attempt to obtain NLP certificate on Udemy
+
+---
+COMING SOON

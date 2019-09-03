@@ -1,0 +1,17 @@
+---
+title: Metal Sheet Incremental Forming
+subtitle: Robot Arm Digital Fabrication
+layout: default
+modal-id: 7
+date: 2019/8/1
+img1: 7A.jpg
+img2: 7B.jpg
+thumbnail: 7.jpg
+alt: image-alt
+project-date: August 2019
+client: Start Bootstrap
+category: NLP
+description: Attempt to obtain NLP certificate on Udemy
+
+---
+COMING SOON

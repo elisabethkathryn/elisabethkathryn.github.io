@@ -1,0 +1,17 @@
+---
+title: Phyllotaxis High-rise Building Typology
+subtitle: Biomimicry-Obtaining Maximum Solar Exposure
+layout: default
+modal-id: 5
+date: 2019/8/1
+img1: 5A.jpg
+img2: 5B.jpg
+thumbnail: 5.jpg
+alt: image-alt
+project-date: August 2019
+client: Start Bootstrap
+category: NLP
+description: Attempt to obtain NLP certificate on Udemy
+
+---
+COMING SOON

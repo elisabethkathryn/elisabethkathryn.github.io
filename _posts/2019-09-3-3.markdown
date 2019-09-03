@@ -1,0 +1,17 @@
+---
+title: Time-capsule
+subtitle: Space Fluidity and Continuity
+layout: default
+modal-id: 3
+date: 2019/8/1
+img1: 3A.jpg
+img2: 3B.jpg
+thumbnail: 3.jpg
+alt: image-alt
+project-date: August 2019
+client: Start Bootstrap
+category: NLP
+description: Attempt to obtain NLP certificate on Udemy
+
+---
+COMING SOON

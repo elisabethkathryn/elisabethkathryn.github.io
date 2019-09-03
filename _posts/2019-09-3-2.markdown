@@ -1,0 +1,17 @@
+---
+title: Rheotomic Surface
+subtitle: Generative Modeling
+layout: default
+modal-id: 2
+date: 2019/8/1
+img1: 2A.jpg
+img2: 2B.jpg
+thumbnail: 2.jpg
+alt: image-alt
+project-date: August 2019
+client: Start Bootstrap
+category: NLP
+description: Attempt to obtain NLP certificate on Udemy
+
+---
+COMING SOON
