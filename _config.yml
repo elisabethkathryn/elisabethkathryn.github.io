@@ -58,3 +58,5 @@ url: "elisabethkathryn.github.io" # the base hostname & protocol for your site
 markdown: kramdown
 #sass:
 #  style: compressed
+
+theme: jekyll-theme-cayman
