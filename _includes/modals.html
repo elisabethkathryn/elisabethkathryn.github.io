@@ -14,10 +14,13 @@
                        <div class="modal-body">
                            <h2>{{ post.title }}</h2>
                            <hr class="star-primary">
+                           <p>
+                             {{post}}
+                             </p>
                            <img src="images/portfolio/{{ post.modal-id }}/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                            <!-- <p>{{ post.description }}</p> -->
                             <img src="images/portfolio/{{ post.modal-id }}/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                           <p>{{ post.description }}</p>
+                           <!-- <p>{{ post.description }}</p> -->
                            <!-- <ul class="list-inline item-details">
                                <li>Client:
                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
