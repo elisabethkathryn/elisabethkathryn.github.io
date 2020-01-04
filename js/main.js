@@ -114,10 +114,10 @@
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
-// var modal = document.getElementById("myModal");
+// var modal = document.getElementsByClassName("modal-open");
 //
 // // Get the button that opens the modal
-// var btn = document.getElementById("myBtn");
+// var btn = document.getElementById("btn");
 //
 // // Get the <span> element that closes the modal
 // var span = document.getElementsByClassName("close")[0];

@@ -1609,44 +1609,44 @@ dl {
   margin: 0 0 2em 0; }
 
 /* Table */
-.table-wrapper {
+.table-wrapper .index {
   -webkit-overflow-scrolling: touch;
   overflow-x: auto; }
 
-table {
+.index {
   margin: 0 0 2em 0;
   width: 100%; }
-  table tbody tr {
+  .index tbody tr {
     border: solid 1px #fff;
     border-left: 0;
     border-right: 0; }
-    table tbody tr:nth-child(2n + 1) {
+    .index tbody tr:nth-child(2n + 1) {
       background-color: rgba(144, 144, 144, 0.25); }
-  table td {
+  .index td {
     padding: 0.75em 0.75em; }
-  table th {
+  .index th {
     color: #fff;
     font-size: 0.9em;
     font-weight: 600;
     padding: 0 0.75em 0.75em 0.75em;
     text-align: left; }
-  table thead {
+  .index thead {
     border-bottom: solid 2px #fff; }
-  table tfoot {
+  .index tfoot {
     border-top: solid 2px #fff; }
-  table.alt {
+  .index.alt {
     border-collapse: separate; }
-    table.alt tbody tr td {
+    .index.alt tbody tr td {
       border: solid 1px #fff;
       border-left-width: 0;
       border-top-width: 0; }
-      table.alt tbody tr td:first-child {
+      .index.alt tbody tr td:first-child {
         border-left-width: 1px; }
-    table.alt tbody tr:first-child td {
+    .index.alt tbody tr:first-child td {
       border-top-width: 1px; }
-    table.alt thead {
+    .index.alt thead {
       border-bottom: 0; }
-    table.alt tfoot {
+    .index.alt tfoot {
       border-top: 0; }
 
 /* Button */
@@ -2616,7 +2616,8 @@ body.is-mobile #main > header {
 #portfolio .portfolio-item {
   right: 0;
   max-width: 20em;
-  max-height: 24em; }
+  max-height: 24em;
+  margin-left: 10%; }
 
 #portfolio .portfolio-item .img-responsive {
   right: 0;
@@ -2707,7 +2708,7 @@ body.is-mobile #main > header {
   overflow-y: auto; }
 
 .portfolio-modal .modal-content .container {
-  max-width: 90%; }
+  max-width: 100%; }
 
 .portfolio-modal .modal-content h2 {
   margin-bottom: 15px;
@@ -2715,8 +2716,7 @@ body.is-mobile #main > header {
 
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
-  padding: 0 30vw 0;
-  text-align: center; }
+  text-align: left; }
 
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
@@ -2731,6 +2731,20 @@ body.is-mobile #main > header {
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
   max-width: 100%; }
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  height: 0;
+  margin-bottom: 30px; }
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
 
 .portfolio-modal .close-modal {
   position: absolute;
@@ -2766,7 +2780,8 @@ body.is-mobile #main > header {
 .modal-body {
   padding-left: 10%;
   padding-top: 3em;
-  max-width: 90%; }
+  max-width: 90%;
+  text-align: left; }
 
 /* Footer */
 #footer {

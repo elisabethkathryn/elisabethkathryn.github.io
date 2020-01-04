@@ -5,46 +5,122 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>elisabethkathryn.github.io/</link>
     <atom:link href="elisabethkathryn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2019 12:54:41 -0500</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2019 12:54:41 -0500</lastBuildDate>
+    <pubDate>Sat, 04 Jan 2020 10:23:30 -0600</pubDate>
+    <lastBuildDate>Sat, 04 Jan 2020 10:23:30 -0600</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Metal Sheet Incremental Forming</title>
-        <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+        <description>&lt;p&gt;Project Type : Individual Experimental Project (Job Interview Project)
+&lt;br /&gt; Institution  : National Taiwan University of Science and Technology &amp;amp; Gomore Material Technology, Taipei, Taiwan
+&lt;br /&gt; Year     : 2019&lt;/p&gt;
+
+&lt;p&gt;  This experiment explores the possibility of fabricating double curved metal surface (0.6 mm aluminium sheet) using KUKA Robot Arm. 3D modelling, robot movement path, movement simulation &amp;amp; analysis are done digitally. The movement path is then transferred as a G-code that is readable by the robot. A custom-made tool is attached to the end of the robot’s arm, then the robot follows the programmed path to form the metal sheet. A series of small incremental deformations slowly sculpts the sheet into the desired shape. Compared to other conventional fabrication techniques, this parametric control and fully automated process optimize the customizability and accuracy in making freeform component.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/0O0DgZ5RrAg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;images/portfolio/7/7A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;elisabeth with KUKA&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/nlp/2019/08/01/7.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/7.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 -0500</pubDate>
+        <link>elisabethkathryn.github.io/2019/09/03/7.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/2019/09/03/7.html</guid>
         
-        
-        <category>NLP</category>
         
       </item>
     
       <item>
         <title>Kinetic Origami Surface</title>
-        <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Academic Project
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Team
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Elisabeth Kathryn, Susan Wu, Le Diha
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Level-year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Master Study, 2nd semester – 2018
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : National Taiwan University of Science and Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+  Based on triangular deployable structure of Ron Resch’s pattern, a kinetic surface was developed. This adjustable surface can be widely applied in smart and responsive architecture, such as sun shading device, acoustic ceiling panel, and many others. Different mechanical and electronic automation systems were explored to control the surface adjustment in response to real-time sensor inputs, such as sound or light. Arduino board and scripting platform (which can be connected to Grasshopper, allowing the user to interactively control a 3D simulation) enables this project to integrate digital design and physical model. Understanding the chosen geometry characteristic, scripting logic, electronic and mechanical principal are the core of this project. When this kind of responsive architectural element is integrated in a building design, it can be a powerful feature to make high-performance, energy-efficient and human-interactive architecture.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/portfolio/6/6A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kinetic Origami Surface&quot; /&gt;
+&lt;img src=&quot;images/portfolio/6/6B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kinetic Origami Surface&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/nlp/2019/08/01/6.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/6.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 -0500</pubDate>
+        <link>elisabethkathryn.github.io/2019/09/03/6.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/2019/09/03/6.html</guid>
         
-        
-        <category>NLP</category>
         
       </item>
     
       <item>
         <title>Phyllotaxis High-rise Building Typology</title>
-        <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Individual Academic Project (Master Thesis)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Level-year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Master Study, 3rd semester – 2018
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : National Taiwan University of Science and Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+  Phyllotaxis pattern, the arrangement of plant’s leaves around its stem, was studied and applied into high-rise building design. Although plant has a bunch of leaf layers which are arranged vertically, each leaf can absorb enough solar radiation to do photosynthesis. Just like plant, this algorithm enables high-rise building, which normally tends to have limited access to daylight and solar radiation, to have more natural exposure. To define a clear research scope, urban farming tower in Singapore was chosen to be a specific topic to evaluate the building performance in this research. The main objectives were maximizing the floor area while optimizing the solar radiation and duration in each day as needed by the crops. Nearly a thousand different
+parameter combinations were simulated and compared to find the best possible pattern.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/portfolio/5/5A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;
+&lt;img src=&quot;images/portfolio/5/5B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/nlp/2019/08/01/5.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/5.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 -0500</pubDate>
+        <link>elisabethkathryn.github.io/2019/09/03/5.html</link>
+        <guid isPermaLink="true">elisabethkathryn.github.io/2019/09/03/5.html</guid>
         
-        
-        <category>NLP</category>
         
       </item>
     
