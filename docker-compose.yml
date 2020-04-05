@@ -10,4 +10,4 @@ services:
        - "4000:4000"
     volumes:
       - C:/Users/elisa/Documents/GitHub/elisabethkathryn.github.io:/srv/jekyll
-    command: jekyll serve
+    command: jekyll serve --force_polling
