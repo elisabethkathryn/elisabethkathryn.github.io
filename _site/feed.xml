@@ -5,8 +5,8 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>elisabethkathryn.github.io/</link>
     <atom:link href="elisabethkathryn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Apr 2020 07:31:42 -0500</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2020 07:31:42 -0500</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2020 07:39:46 -0500</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2020 07:39:46 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -15,7 +15,7 @@
 &lt;br /&gt; Institution  : National Taiwan University of Science and Technology &amp;amp; Gomore Material Technology, Taipei, Taiwan
 &lt;br /&gt; Year     : 2019&lt;/p&gt;
 
-&lt;p&gt;  This experiment explores the possibility of fabricating double curved metal surface (0.6 mm aluminium sheet) using KUKA Robot Arm. 3D modelling, robot movement path, movement simulation &amp;amp; analysis are done digitally. The movement path is then transferred as a G-code that is readable by the robot. A custom-made tool is attached to the end of the robot’s arm, then the robot follows the programmed path to form the metal sheet. A series of small incremental deformations slowly sculpts the sheet into the desired shape. Compared to other conventional fabrication techniques, this parametric control and fully automated process optimize the customizability and accuracy in making freeform component.&lt;/p&gt;
+&lt;p&gt;  This experiment explores the possibility of fabricating double curved metal surface (0.6 mm aluminum sheet) using KUKA Robot Arm. 3D modelling, robot movement path, movement simulation &amp;amp; analysis are done digitally. The movement path is then transferred as a G-code that is readable by the robot. A custom-made tool is attached to the end of the robot’s arm, then the robot follows the programmed path to form the metal sheet. A series of small incremental deformations slowly sculpts the sheet into the desired shape. Compared to other conventional fabrication techniques, this parametric control and fully automated process optimize the customizability and accuracy in making freeform component.&lt;/p&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe src=&quot;https://www.youtube.com/embed/0O0DgZ5RrAg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
