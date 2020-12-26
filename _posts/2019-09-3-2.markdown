@@ -1,17 +1,39 @@
 ---
 title: Rheotomic Surface
 subtitle: Generative Modeling
-layout: default
 modal-id: 2
-date: 2019/8/1
-img1: 2A.jpg
-img2: 2B.jpg
 thumbnail: 2.jpg
-alt: image-alt
-project-date: August 2019
-client: Start Bootstrap
-category: NLP
-description: Attempt to obtain NLP certificate on Udemy
 
 ---
-COMING SOON
+<table>
+    <tbody>
+        <tr>
+            <td>
+                Project Type&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Individual Academic Project
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Level-year
+            </td>
+            <td>
+                : Master Study, 2018
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Institution
+            </td>
+            <td>
+                : National Taiwan University of Science and Technology
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<img src="images/portfolio/2/2A.jpg" style="width:500px" class="img-responsive img-centered" alt="Rheotomic Surface">
+<img src="images/portfolio/2/2B.jpg" class="img-responsive img-centered" alt="Rheotomic Surface">
+

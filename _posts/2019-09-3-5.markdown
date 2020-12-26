@@ -20,7 +20,7 @@ thumbnail: 5.jpg
                 Level-year
             </td>
             <td>
-                : Master Study, 3rd semester – 2018
+                : Master Study, 2018
             </td>
         </tr>
         <tr>
