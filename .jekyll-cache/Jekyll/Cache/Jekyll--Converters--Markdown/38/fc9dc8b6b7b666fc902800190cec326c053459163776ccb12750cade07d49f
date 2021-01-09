@@ -1,0 +1,42 @@
+I"�<table>
+    <tbody>
+        <tr>
+            <td>
+                Project Type&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Academic Project
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Team
+            </td>
+            <td>
+                : Elisabeth Kathryn, Susan Wu, Le Diha
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Level-year
+            </td>
+            <td>
+                : Master Study, 2018
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Institution
+            </td>
+            <td>
+                : National Taiwan University of Science and Technology
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><br />
+  Based on triangular deployable structure of Ron Resch’s pattern, a kinetic surface was developed. This adjustable surface can be widely applied in smart and responsive architecture, such as sun shading device, acoustic ceiling panel, and many others. Different mechanical and electronic automation systems were explored to control the surface adjustment in response to real-time sensor inputs, such as sound or light. Arduino board and scripting platform (which can be connected to Grasshopper, allowing the user to interactively control a 3D simulation) enables this project to integrate digital design and physical model. Understanding the chosen geometry characteristic, scripting logic, electronic and mechanical principal are the core of this project. When this kind of responsive architectural element is integrated in a building design, it can be a powerful feature to make high-performance, energy-efficient and human-interactive architecture.</p>
+
+<p><img src="images/portfolio/6/6A.jpg" class="img-responsive img-centered" alt="Kinetic Origami Surface" />
+<img src="images/portfolio/6/6B.jpg" class="img-responsive img-centered" alt="Kinetic Origami Surface" /></p>
+:ET

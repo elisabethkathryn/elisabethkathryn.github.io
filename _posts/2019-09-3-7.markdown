@@ -6,7 +6,7 @@ thumbnail: 7.jpg
 
 ---
 Project Type&emsp;: Individual Experimental Project (Job Interview Project)
-<br> Institution&emsp;&emsp;: National Taiwan University of Science and Technology & Gomore Material Technology, Taipei, Taiwan
+<br> Institution&emsp;&emsp;: National Taiwan University of Science and Technology & Gomore Building Envelope Technology, Taipei, Taiwan
 <br> Year&emsp;&emsp;&emsp;&emsp;&emsp;: 2019  
 
 &emsp;&emsp;This experiment explores the possibility of fabricating double curved metal surface (0.6 mm aluminum sheet) using KUKA Robot Arm. 3D modelling, robot movement path, movement simulation & analysis are done digitally. The movement path is then transferred as a G-code that is readable by the robot. A custom-made tool is attached to the end of the robot’s arm, then the robot follows the programmed path to form the metal sheet. A series of small incremental deformations slowly sculpts the sheet into the desired shape. Compared to other conventional fabrication techniques, this parametric control and fully automated process optimize the customizability and accuracy in making freeform component.

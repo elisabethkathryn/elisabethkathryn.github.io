@@ -3,16 +3,61 @@
   <channel>
     <title>Elisabeth Kathryn</title>
     <description>Parametric | Sustainable Architecture Design</description>
-    <link>elisabethkathryn.github.io/</link>
-    <atom:link href="elisabethkathryn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Apr 2020 07:39:46 -0500</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2020 07:39:46 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <link>http://0.0.0.0:8080/</link>
+    <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Jan 2021 11:38:11 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2021 11:38:11 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Image-based Folding Panel</title>
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Company Research and Development Project
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : 2019
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology &amp;amp; 特建金屬實業有限公司
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+  This project is inspired by Emerson College, Los Angeles by Morphosis Architect. As can be seen in this project, flat metal sheets can be attractively designed and arranged to form a very dynamic facade. Fabrication feasibility and efficiency become important considerations in the entire design process.&lt;/p&gt;
+
+&lt;p&gt;  Panel variations are rationalized into limited number of unit types. In addition to the panel folds, the L shape adds more directionality which make more variation to the overall look. The cutting shape is also optimized to minimize metal sheet waste. Laser cut and press brake machines, relatively common fabrication methods in metal industry, are used in this project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/portfolio/8/8A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;
+&lt;img src=&quot;images/portfolio/8/8B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/01/09/8.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/01/09/8.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Metal Sheet Incremental Forming</title>
         <description>&lt;p&gt;Project Type : Individual Experimental Project (Job Interview Project)
-&lt;br /&gt; Institution  : National Taiwan University of Science and Technology &amp;amp; Gomore Material Technology, Taipei, Taiwan
+&lt;br /&gt; Institution  : National Taiwan University of Science and Technology &amp;amp; Gomore Building Envelope Technology, Taipei, Taiwan
 &lt;br /&gt; Year     : 2019&lt;/p&gt;
 
 &lt;p&gt;  This experiment explores the possibility of fabricating double curved metal surface (0.6 mm aluminum sheet) using KUKA Robot Arm. 3D modelling, robot movement path, movement simulation &amp;amp; analysis are done digitally. The movement path is then transferred as a G-code that is readable by the robot. A custom-made tool is attached to the end of the robot’s arm, then the robot follows the programmed path to form the metal sheet. A series of small incremental deformations slowly sculpts the sheet into the desired shape. Compared to other conventional fabrication techniques, this parametric control and fully automated process optimize the customizability and accuracy in making freeform component.&lt;/p&gt;
@@ -22,9 +67,9 @@
  &lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;images/portfolio/7/7A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;elisabeth with KUKA&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/2019/09/03/7.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/2019/09/03/7.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2019/09/03/7.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/7.html</guid>
         
         
       </item>
@@ -54,7 +99,7 @@
                 Level-year
             &lt;/td&gt;
             &lt;td&gt;
-                : Master Study, 2nd semester – 2018
+                : Master Study, 2018
             &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -73,15 +118,15 @@
 &lt;p&gt;&lt;img src=&quot;images/portfolio/6/6A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kinetic Origami Surface&quot; /&gt;
 &lt;img src=&quot;images/portfolio/6/6B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kinetic Origami Surface&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/2019/09/03/6.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/2019/09/03/6.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2019/09/03/6.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/6.html</guid>
         
         
       </item>
     
       <item>
-        <title>Phyllotaxis High-rise Building Typology</title>
+        <title>Phyllotaxis High-rise Building</title>
         <description>&lt;table&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
@@ -97,7 +142,7 @@
                 Level-year
             &lt;/td&gt;
             &lt;td&gt;
-                : Master Study, 3rd semester – 2018
+                : Master Study, 2018
             &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -117,62 +162,186 @@ parameter combinations were simulated and compared to find the best possible pat
 &lt;p&gt;&lt;img src=&quot;images/portfolio/5/5A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;
 &lt;img src=&quot;images/portfolio/5/5B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/2019/09/03/5.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/2019/09/03/5.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2019/09/03/5.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/5.html</guid>
         
         
       </item>
     
       <item>
-        <title>Galapagos Optimization</title>
-        <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+        <title>Solar-based Building Form Optimization</title>
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Academic Project
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Team
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Elisabeth Kathryn, Anastasia Mimosa
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Level-year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Master Study, 2017
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : National Taiwan University of Science and Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+  Environmental simulation was integrated into the early stage of form finding. Galapagos (genetic algorithm solver) was used to test and find the most optimum parameter combination in order to get the best building performance. Several parameters tested in this experiment were the building’s four horizontal section profiles center point location, dimension and ratio. Whereas, the profile’s shape and height, also the total volume of the tower were all fixed. Solar radiation analysis was done for both facade and roof surfaces of the tower. The objective of the first experiment was to minimize the solar radiation which is applicable when the architect needs to reduce the building’s heat gain and reduce the cooling load. Then the objective of the second experiment was to maximize the solar radiation which, for instance, can be applied when the building envelope is built from photovoltaic panels and wants to receive as much energy as it can. The optimization results from two different shapes of profile (oval and rectangle) show similar tendencies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/portfolio/4/4A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Galapagos Optimization&quot; /&gt;
+&lt;img src=&quot;images/portfolio/4/4B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Galapagos Optimization&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/nlp/2019/08/01/4.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/4.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2019/09/03/4.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/4.html</guid>
         
-        
-        <category>NLP</category>
         
       </item>
     
       <item>
         <title>Time-capsule</title>
-        <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Individual Academic Project
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Level-year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Master Study, 2017
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : National Taiwan University of Science and Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/3/3A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Time-capsule&quot; /&gt;
+&lt;img src=&quot;images/portfolio/3/3B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Time-capsule&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/nlp/2019/08/01/3.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/3.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2019/09/03/3.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/3.html</guid>
         
-        
-        <category>NLP</category>
         
       </item>
     
       <item>
         <title>Rheotomic Surface</title>
-        <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Individual Academic Project
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Level-year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Master Study, 2018
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : National Taiwan University of Science and Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/2/2A.jpg&quot; style=&quot;width:500px&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Rheotomic Surface&quot; /&gt;
+&lt;img src=&quot;images/portfolio/2/2B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Rheotomic Surface&quot; /&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/nlp/2019/08/01/2.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/2.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2019/09/03/2.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/2.html</guid>
         
-        
-        <category>NLP</category>
         
       </item>
     
       <item>
         <title>Voronoi Surface</title>
-        <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Individual Academic Project
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Level-year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Master Study, 2017
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : National Taiwan University of Science and Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/1/1A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Voronoi Surface&quot; /&gt;
+&lt;img src=&quot;images/portfolio/1/1B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Voronoi Surface&quot; /&gt;&lt;/p&gt;
+
 </description>
-        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
-        <link>elisabethkathryn.github.io/nlp/2019/08/01/1.html</link>
-        <guid isPermaLink="true">elisabethkathryn.github.io/nlp/2019/08/01/1.html</guid>
+        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2019/09/03/1.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/1.html</guid>
         
-        
-        <category>NLP</category>
         
       </item>
     

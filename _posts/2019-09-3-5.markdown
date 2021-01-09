@@ -1,6 +1,6 @@
 ---
-title: Phyllotaxis High-rise Building Typology
-subtitle: Biomimicry-Obtaining Maximum Solar Exposure
+title: Phyllotaxis High-rise Building
+subtitle: Biomimicry
 modal-id: 5
 thumbnail: 5.jpg
 
