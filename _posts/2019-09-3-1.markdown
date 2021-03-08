@@ -1,6 +1,7 @@
 ---
 title: Voronoi Surface
 subtitle: Generative Modeling
+tag: research
 modal-id: 1
 thumbnail: 1.jpg
 

@@ -1,6 +1,7 @@
 ---
 title: Image-based Folding Panel
 subtitle: Digital Design and Fabrication
+tag: research
 modal-id: 8
 thumbnail: 8.jpg
 

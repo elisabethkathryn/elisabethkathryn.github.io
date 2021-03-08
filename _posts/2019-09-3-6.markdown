@@ -1,6 +1,7 @@
 ---
 title: Kinetic Origami Surface
 subtitle: Arduino Integrated Prototype
+tag: research
 modal-id: 6
 thumbnail: 6.jpg
 ---

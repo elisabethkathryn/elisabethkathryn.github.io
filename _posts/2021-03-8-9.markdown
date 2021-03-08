@@ -1,0 +1,56 @@
+---
+title: Taipei Dome
+subtitle: Roofing System
+tag: professional
+modal-id: 9
+thumbnail: 9.jpg
+
+---
+<table>
+    <tbody>
+        <tr>
+            <td>
+                Company&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Gomore Building Envelope Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scope of work
+            </td>
+            <td>
+                : Roofing system
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : POPULOUS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Personal roles
+            </td>
+            <td>
+                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+            </td>
+        </tr>
+                <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : POPULOUS
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<img src="images/portfolio/8/8A.jpg" class="img-responsive img-centered" alt="Phyllotaxis High-rise Building">
+<img src="images/portfolio/8/8B.jpg" class="img-responsive img-centered" alt="Phyllotaxis High-rise Building">

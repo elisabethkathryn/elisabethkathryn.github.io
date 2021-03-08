@@ -5,9 +5,69 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Jan 2021 11:38:11 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Jan 2021 11:38:11 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Mar 2021 13:59:59 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Mar 2021 13:59:59 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Taipei Dome</title>
+        <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Roofing system
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : POPULOUS
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+                &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : POPULOUS
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/portfolio/8/8A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;
+&lt;img src=&quot;images/portfolio/8/8B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/03/08/9.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/08/9.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
     
       <item>
         <title>Image-based Folding Panel</title>
@@ -51,6 +111,8 @@
         <link>http://0.0.0.0:8080/2021/01/09/8.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2021/01/09/8.html</guid>
         
+        <category>research</category>
+        
         
       </item>
     
@@ -70,6 +132,8 @@
         <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2019/09/03/7.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/7.html</guid>
+        
+        <category>research</category>
         
         
       </item>
@@ -122,6 +186,8 @@
         <link>http://0.0.0.0:8080/2019/09/03/6.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/6.html</guid>
         
+        <category>research</category>
+        
         
       </item>
     
@@ -165,6 +231,8 @@ parameter combinations were simulated and compared to find the best possible pat
         <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2019/09/03/5.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/5.html</guid>
+        
+        <category>research</category>
         
         
       </item>
@@ -217,6 +285,8 @@ parameter combinations were simulated and compared to find the best possible pat
         <link>http://0.0.0.0:8080/2019/09/03/4.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/4.html</guid>
         
+        <category>research</category>
+        
         
       </item>
     
@@ -257,6 +327,8 @@ parameter combinations were simulated and compared to find the best possible pat
         <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2019/09/03/3.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/3.html</guid>
+        
+        <category>research</category>
         
         
       </item>
@@ -300,6 +372,8 @@ parameter combinations were simulated and compared to find the best possible pat
         <link>http://0.0.0.0:8080/2019/09/03/2.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/2.html</guid>
         
+        <category>research</category>
+        
         
       </item>
     
@@ -341,6 +415,8 @@ parameter combinations were simulated and compared to find the best possible pat
         <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2019/09/03/1.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/1.html</guid>
+        
+        <category>research</category>
         
         
       </item>
