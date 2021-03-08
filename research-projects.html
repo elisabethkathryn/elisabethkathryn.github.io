@@ -18,7 +18,7 @@ title: Research Projects
 				{% for post in site.posts %}
 				{% if post.tag == "research" %}
 						<div class="col-md-4 col-sm-6 portfolio-item">
-								<a href="#portfolioModal{{ post.modal-id }}" data-target="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+								<a href="#{{ post.modal-id }}" data-target="#{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
 										<div class="portfolio-hover">
 												<!-- <div class="portfolio-hover-content"> -->
 														<!-- <i class="fa fa-plus fa-3x"></i> -->

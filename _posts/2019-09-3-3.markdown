@@ -2,7 +2,7 @@
 title: Time-capsule
 subtitle: Space Fluidity and Continuity
 tag: research
-modal-id: 3
+modal-id: time
 thumbnail: 3.jpg
 
 ---

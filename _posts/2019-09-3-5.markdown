@@ -2,7 +2,7 @@
 title: Phyllotaxis High-rise Building
 subtitle: Biomimicry
 tag: research
-modal-id: 5
+modal-id: phyllotaxis
 thumbnail: 5.jpg
 
 ---

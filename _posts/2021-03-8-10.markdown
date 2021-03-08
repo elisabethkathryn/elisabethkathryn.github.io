@@ -1,9 +1,9 @@
 ---
-title: Taipei Dome
-subtitle: 臺北大巨蛋
+title: Criminal Investigation Division, Taipei City Police Department
+subtitle: 臺北市政府警察局刑事警察大隊
 tag: professional
-modal-id: taipeidome
-thumbnail: 9.jpg
+modal-id: criminal
+thumbnail: 10.jpg
 
 ---
 <table>
@@ -21,7 +21,7 @@ thumbnail: 9.jpg
                 Scope of work
             </td>
             <td>
-                : Roofing system
+                : Glass and stone curtain wall, metal roof
             </td>
         </tr>
         <tr>
@@ -29,7 +29,7 @@ thumbnail: 9.jpg
                 Architect
             </td>
             <td>
-                : POPULOUS
+                : ARCHASIA Design Group
             </td>
         </tr>
         <tr>
@@ -37,7 +37,9 @@ thumbnail: 9.jpg
                 Personal roles
             </td>
             <td>
-                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+                : Build 3D model and simulate construction details of glass stick system curtain wall, stone curtain wall, metal roof, aluminum cladding and canopy, steel sub-structure members <br>
+                &nbsp;&nbsp;Develop construction detailed drawing with respect to architectural drawing and requirement, structural calculation, waterproof line, construction and fabrication feasibility, material availability <br>
+                &nbsp;&nbsp;Produce fabrication drawing with parametric 3D model automation
             </td>
         </tr>
                 <tr>

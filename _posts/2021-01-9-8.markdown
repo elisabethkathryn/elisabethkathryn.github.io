@@ -2,7 +2,7 @@
 title: Image-based Folding Panel
 subtitle: Digital Design and Fabrication
 tag: research
-modal-id: 8
+modal-id: image
 thumbnail: 8.jpg
 
 ---
@@ -39,5 +39,5 @@ thumbnail: 8.jpg
 
 &emsp;&emsp;Panel variations are rationalized into limited number of unit types. In addition to the panel folds, the L shape adds more directionality which make more variation to the overall look. The cutting shape is also optimized to minimize metal sheet waste. Laser cut and press brake machines, relatively common fabrication methods in metal industry, are used in this project.
 
-<img src="images/portfolio/8/8A.jpg" class="img-responsive img-centered" alt="Phyllotaxis High-rise Building">
-<img src="images/portfolio/8/8B.jpg" class="img-responsive img-centered" alt="Phyllotaxis High-rise Building">
+<img src="images/portfolio/8/8A.jpg" class="img-responsive img-centered" alt="Image-based Folding Panel">
+<img src="images/portfolio/8/8B.jpg" class="img-responsive img-centered" alt="Image-based Folding Panel">
