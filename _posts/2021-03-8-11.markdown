@@ -1,0 +1,50 @@
+---
+title: Taoyuan International Airport Terminal 3
+subtitle: 臺灣桃園國際機場第三航廈
+tag: professional
+modal-id: taoyuan
+thumbnail: 11.jpg
+
+---
+<table>
+    <tbody>
+        <tr>
+            <td>
+                Company&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Gomore Building Envelope Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scope of work
+            </td>
+            <td>
+                : Roofing system (tender stage)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : Rogers Stirk Harbour + Partners
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Personal roles
+            </td>
+            <td>
+                : Build parametric 3D model and simulate construction details of the roofing system <br>
+                &nbsp;&nbsp;Develop and optimize the roofing system with respect to architectural drawing, structural consideration, construction and fabrication feasibility <br>
+                &nbsp;&nbsp;Calculate material quantity
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<img src="images/portfolio/11/11A.jpg" class="img-responsive img-centered" alt="T3">
+<img src="images/portfolio/11/11B.jpg" class="img-responsive img-centered" alt="T3">

@@ -1,9 +1,9 @@
 ---
-title: Taipei Dome
-subtitle: 臺北大巨蛋
+title: Kaohsiung Station
+subtitle: 高雄車站
 tag: professional
-modal-id: taipeidome
-thumbnail: 9.jpg
+modal-id: kaohsiung
+thumbnail: 12.jpg
 
 ---
 <table>
@@ -21,7 +21,7 @@ thumbnail: 9.jpg
                 Scope of work
             </td>
             <td>
-                : Roofing system
+                : Commercial building and hotel building's glass and metal curtain wall
             </td>
         </tr>
         <tr>
@@ -29,7 +29,7 @@ thumbnail: 9.jpg
                 Architect
             </td>
             <td>
-                : POPULOUS
+                : Mecanoo Architecten
             </td>
         </tr>
         <tr>
@@ -37,11 +37,13 @@ thumbnail: 9.jpg
                 Personal roles
             </td>
             <td>
-                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+                : Build 3D model and simulate construction details of unitized curtain wall system <br>
+                &nbsp;&nbsp;Calculate material quantity
             </td>
         </tr>
     </tbody>
 </table>
 <br>
 
-<img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
+<img src="images/portfolio/12/12A.jpg" class="img-responsive img-centered" alt="Kaohsiung Station">
+<img src="images/portfolio/12/12B.jpg" class="img-responsive img-centered" alt="Kaohsiung Station">

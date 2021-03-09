@@ -4,6 +4,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 (function($) {
 
 	skel
@@ -96,40 +97,45 @@
 			}
 
 	});
+});
 
 
-	$('div.modal').on('show.bs.modal', function() {
-		var modal = this;
-		var hash = modal.id;
-		window.location.hash = hash;
-		window.onhashchange = function() {
-			if (!location.hash){
-				$(modal).modal('hide');
-			}
-		}
-	});
 
 })(jQuery);
+
 
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+
+$('div.modal').on('show.bs.modal', function() {
+	var modal = this;
+	var hash = modal.id;
+	window.location.hash = hash;
+	window.onhashchange = function() {
+		if (!location.hash){
+			$(modal).modal('hide');
+		}
+	}
+
 // var modal = document.getElementsByClassName("modal-open");
-//
-// // Get the button that opens the modal
+
+// Get the button that opens the modal
 // var btn = document.getElementById("btn");
 //
-// // Get the <span> element that closes the modal
-// var span = document.getElementsByClassName("close")[0];
+// Get the <span> element that closes the modal
+// var span = document.getElementsByClassName("close-modal")[0];
 //
-// // When the user clicks the button, open the modal
+// When the user clicks the button, open the modal
 // btn.onclick = function() {
 //   modal.style.display = "block";
 // }
 //
-// // When the user clicks on <span> (x), close the modal
+// // // When the user clicks on <span> (x), close the modal
 // span.onclick = function() {
 //   modal.style.display = "none";
+// 	history.replaceState(null, "", window.location.pathname)
 // }
 //
 // // When the user clicks anywhere outside of the modal, close it

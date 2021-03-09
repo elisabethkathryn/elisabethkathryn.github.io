@@ -42,16 +42,9 @@ thumbnail: 10.jpg
                 &nbsp;&nbsp;Produce fabrication drawing with parametric 3D model automation
             </td>
         </tr>
-                <tr>
-            <td>
-                Architect
-            </td>
-            <td>
-                : POPULOUS
-            </td>
-        </tr>
     </tbody>
 </table>
 <br>
 
-<img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
+<img src="images/portfolio/10/10A.jpg" class="img-responsive img-centered" alt="CID">
+<img src="images/portfolio/10/10B.jpg" class="img-responsive img-centered" alt="CID">
