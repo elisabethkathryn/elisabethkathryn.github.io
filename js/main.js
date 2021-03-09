@@ -97,7 +97,6 @@
 			}
 
 	});
-});
 
 
 
@@ -119,6 +118,7 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 
+});
 // var modal = document.getElementsByClassName("modal-open");
 
 // Get the button that opens the modal
