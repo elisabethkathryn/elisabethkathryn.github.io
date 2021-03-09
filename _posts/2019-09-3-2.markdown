@@ -1,7 +1,8 @@
 ---
 title: Rheotomic Surface
 subtitle: Generative Modeling
-modal-id: 2
+tag: research
+modal-id: rheotomic
 thumbnail: 2.jpg
 
 ---

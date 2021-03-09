@@ -1,7 +1,8 @@
 ---
 title: Voronoi Surface
 subtitle: Generative Modeling
-modal-id: 1
+tag: research
+modal-id: voronoi
 thumbnail: 1.jpg
 
 ---

@@ -1,7 +1,8 @@
 ---
 title: Solar-based Building Form Optimization
 subtitle: Galapagos Optimization
-modal-id: 4
+tag: research
+modal-id: solar
 thumbnail: 4.jpg
 
 ---

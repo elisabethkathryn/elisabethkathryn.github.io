@@ -1,7 +1,8 @@
 ---
 title: Metal Sheet Incremental Forming
 subtitle: Robot Arm Digital Fabrication
-modal-id: 7
+tag: research
+modal-id: metal
 thumbnail: 7.jpg
 
 ---

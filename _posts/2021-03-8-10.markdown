@@ -1,0 +1,50 @@
+---
+title: Criminal Investigation Division, Taipei City Police Department
+subtitle: 臺北市政府警察局刑事警察大隊
+tag: professional
+modal-id: criminal
+thumbnail: 10.jpg
+
+---
+<table>
+    <tbody>
+        <tr>
+            <td>
+                Company&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Gomore Building Envelope Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scope of work
+            </td>
+            <td>
+                : Glass and stone curtain wall, metal roof
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : ARCHASIA Design Group
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Personal roles
+            </td>
+            <td>
+                : Build 3D model and simulate construction details of glass stick system curtain wall, stone curtain wall, metal roof, aluminum cladding and canopy, steel sub-structure members <br>
+                &nbsp;&nbsp;Develop construction detailed drawing with respect to architectural drawing and requirement, structural calculation, waterproof line, construction and fabrication feasibility, material availability <br>
+                &nbsp;&nbsp;Produce fabrication drawing with parametric 3D model automation
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<img src="images/portfolio/10/10A.jpg" class="img-responsive img-centered" alt="CID">
+<img src="images/portfolio/10/10B.jpg" class="img-responsive img-centered" alt="CID">

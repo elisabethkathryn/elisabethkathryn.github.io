@@ -1,0 +1,49 @@
+---
+title: Kaohsiung Station
+subtitle: 高雄車站
+tag: professional
+modal-id: kaohsiung
+thumbnail: 12.jpg
+
+---
+<table>
+    <tbody>
+        <tr>
+            <td>
+                Company&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Gomore Building Envelope Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scope of work
+            </td>
+            <td>
+                : Commercial building and hotel building's glass and metal curtain wall
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : Mecanoo Architecten
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Personal roles
+            </td>
+            <td>
+                : Build 3D model and simulate construction details of unitized curtain wall system <br>
+                &nbsp;&nbsp;Calculate material quantity
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<img src="images/portfolio/12/12A.jpg" class="img-responsive img-centered" alt="Kaohsiung Station">
+<img src="images/portfolio/12/12B.jpg" class="img-responsive img-centered" alt="Kaohsiung Station">

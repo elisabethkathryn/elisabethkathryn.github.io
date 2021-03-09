@@ -1,8 +1,8 @@
 <!-- Portfolio Modals -->
 {% for post in site.posts %}
-   <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" hidden="true">
+   <div class="portfolio-modal modal fade" id="{{ post.modal-id }}" tabindex="-1" role="dialog" hidden="true">
        <div class="modal-content">
-           <div class="close-modal" data-dismiss="modal">
+           <div class="close-modal"  data-dismiss="modal">
                <div class="lr">
                    <div class="rl">
                    </div>
