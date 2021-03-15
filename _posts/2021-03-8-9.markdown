@@ -45,3 +45,5 @@ thumbnail: 9.jpg
 <br>
 
 <img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
+
+Source: <a href="https://gomore.com.tw/2015/project_TD.html"> https://gomore.com.tw/2015/project_TD.html </a>
