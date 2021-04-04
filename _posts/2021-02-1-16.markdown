@@ -1,0 +1,51 @@
+---
+title: Taipei Nangang Biotechnology Industry
+subtitle: 台北南港生技產業大樓
+tag: professional
+modal-id: biotechnology
+thumbnail: 16.jpg
+
+---
+<table class="table__professional">
+    <tbody>
+        <tr>
+            <td>
+                Company&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Gomore Building Envelope Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scope of work
+            </td>
+            <td>
+                : Tender stage – glass curtain wall (tower and podium)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : Fei & Cheng Associates 宗邁建築師事務所
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Personal roles
+            </td>
+            <td>
+                : Building facade 3D modeling (conceptual whole building model and unitized curtain wall system detailed model) <br>
+                Model's information extraction (material quantity)
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<img src="images/portfolio/16/16A.jpg" class="img-responsive img-centered" alt="Taipei Nangang Biotechnology Industry">
+<br>
+<img src="images/portfolio/16/16B.jpg" class="img-responsive img-centered" alt="Taipei Nangang Biotechnology Industry">
+Source: <a href="https://estate.ltn.com.tw/article/5757"> https://estate.ltn.com.tw/article/5757 </a>
+

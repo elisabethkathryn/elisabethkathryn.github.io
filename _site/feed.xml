@@ -5,13 +5,13 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Mar 2021 05:16:10 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Mar 2021 05:16:10 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Apr 2021 13:08:06 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Apr 2021 13:08:06 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Taipei Dome</title>
-        <description>&lt;table&gt;
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -64,7 +64,7 @@
     
       <item>
         <title>Kaohsiung Station</title>
-        <description>&lt;table&gt;
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -95,8 +95,11 @@
                 Personal roles
             &lt;/td&gt;
             &lt;td&gt;
-                : Build 3D model and simulate construction details of unitized curtain wall system &lt;br /&gt;
-                &amp;nbsp;&amp;nbsp;Calculate material quantity
+                : Developed design details of unitized curtain wall system &lt;br /&gt;
+                Built 3D model and simulated construction details &lt;br /&gt;
+                Made 3D-printed physical model of the curtain wall system details &lt;br /&gt;
+                Extracted model's information (material quantity) &lt;br /&gt;
+                Prepared shop drawing for sound insulation performance test
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
@@ -119,7 +122,7 @@
     
       <item>
         <title>Taoyuan International Airport Terminal 3</title>
-        <description>&lt;table&gt;
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -150,9 +153,9 @@
                 Personal roles
             &lt;/td&gt;
             &lt;td&gt;
-                : Build parametric 3D model and simulate construction details of the roofing system &lt;br /&gt;
-                &amp;nbsp;&amp;nbsp;Develop and optimize the roofing system with respect to architectural drawing, structural consideration, construction and fabrication feasibility &lt;br /&gt;
-                &amp;nbsp;&amp;nbsp;Calculate material quantity
+                : Built parametric 3D model and simulated construction details of the roofing system &lt;br /&gt;
+                Developed and optimized the roofing system design with respect to architectural drawing, structural consideration, construction and fabrication feasibility &lt;br /&gt;
+                Calculated material quantity, which was automatically extracted from parametric 3d model 
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
@@ -175,7 +178,7 @@
     
       <item>
         <title>Criminal Investigation Division, Taipei City Police Department</title>
-        <description>&lt;table&gt;
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -206,9 +209,9 @@
                 Personal roles
             &lt;/td&gt;
             &lt;td&gt;
-                : Build 3D model and simulate construction details of glass stick system curtain wall, stone curtain wall, metal roof, aluminum cladding and canopy, steel sub-structure members &lt;br /&gt;
-                &amp;nbsp;&amp;nbsp;Develop construction detailed drawing with respect to architectural drawing and requirement, structural calculation, waterproof line, construction and fabrication feasibility, material availability &lt;br /&gt;
-                &amp;nbsp;&amp;nbsp;Produce fabrication drawing with parametric 3D model automation
+                : Built 3D model and simulated construction details of glass stick system curtain wall, stone curtain wall, metal roof, aluminum cladding and canopy, steel sub-structure members &lt;br /&gt;
+                Developed construction detailed drawing with respect to architectural drawing and requirement, structural calculation, waterproof line, construction and fabrication feasibility, material availability &lt;br /&gt;
+                Produced fabrication drawing with parametric 3D model automation
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
@@ -230,8 +233,282 @@
       </item>
     
       <item>
+        <title>LaLaport Nangang Skybridge</title>
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Tender stage – skybridge metal cladding and glass facade
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : C.Y. Lee &amp;amp; Partners 李祖原聯合建築師事務所
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Building facade parametric 3D modeling &lt;br /&gt;
+                Model's information extraction (material quantity, element's unique code, type and location)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/14/14A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang Skybridge&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/14/14B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang Skybridge&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/03/01/14.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/01/14.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>LaLaport Nangang</title>
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Tender stage – tower and podium glass curtain wall, podium metal roof
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : C.Y. Lee &amp;amp; Partners 李祖原聯合建築師事務所
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Building facade parametric 3D modeling &lt;br /&gt;
+                Model's information extraction (material quantity)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/13/13B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/13/13A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang&quot; /&gt;
+Source: &lt;a href=&quot;https://tw-landmark.blogspot.com/2019/06/lalaport-nangang.html&quot;&gt; https://www.archdaily.com/903677/kaohsiung-station-mecanoo &lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/03/01/13.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/01/13.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Taichung Green Museumbrary</title>
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Tender stage – glass and metal mesh facade
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Kazuyo Sejima + Ryue Nishizawa / SANAA
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Building facade 3D modeling &lt;br /&gt;
+                Model's information extraction (material quantity)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/15/15A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taichung Green Museumbrary&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/15/15B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taichung Green Museumbrary&quot; /&gt;
+Source: &lt;a href=&quot;https://www.taiwannews.com.tw/en/news/3767568&quot;&gt; https://www.taiwannews.com.tw/en/news/3767568 &lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/02/02/15.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/02/02/15.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Taipei Meteorological Station</title>
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Tender stage – expanded metal façade
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : 程俊強建築師事務所
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Building facade 3D modeling &lt;br /&gt;
+                Model's information extraction (material quantity)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/17/17A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/17/17B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
+Source: &lt;a href=&quot;https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya&quot;&gt; https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya &lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/02/01/17.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/02/01/17.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Taipei Nangang Biotechnology Industry</title>
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Tender stage – glass curtain wall (tower and podium)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Fei &amp;amp; Cheng Associates 宗邁建築師事務所
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Building facade 3D modeling (conceptual whole building model and unitized curtain wall system detailed model) &lt;br /&gt;
+                Model's information extraction (material quantity)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/16/16A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/16/16B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
+Source: &lt;a href=&quot;https://estate.ltn.com.tw/article/5757&quot;&gt; https://estate.ltn.com.tw/article/5757 &lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/02/01/16.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/02/01/16.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Image-based Folding Panel</title>
-        <description>&lt;table&gt;
+        <description>&lt;table class=&quot;table__research&quot;&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td&gt;
@@ -270,223 +547,6 @@
         <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/01/09/8.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2021/01/09/8.html</guid>
-        
-        <category>research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Metal Sheet Incremental Forming</title>
-        <description>&lt;p&gt;Project Type : Individual Experimental Project (Job Interview Project)
-&lt;br /&gt; Institution  : National Taiwan University of Science and Technology &amp;amp; Gomore Building Envelope Technology, Taipei, Taiwan
-&lt;br /&gt; Year     : 2019&lt;/p&gt;
-
-&lt;p&gt;  This experiment explores the possibility of fabricating double curved metal surface (0.6 mm aluminum sheet) using KUKA Robot Arm. 3D modelling, robot movement path, movement simulation &amp;amp; analysis are done digitally. The movement path is then transferred as a G-code that is readable by the robot. A custom-made tool is attached to the end of the robot’s arm, then the robot follows the programmed path to form the metal sheet. A series of small incremental deformations slowly sculpts the sheet into the desired shape. Compared to other conventional fabrication techniques, this parametric control and fully automated process optimize the customizability and accuracy in making freeform component.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe src=&quot;https://www.youtube.com/embed/0O0DgZ5RrAg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;images/portfolio/7/7A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;elisabeth with KUKA&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2019/09/03/7.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/7.html</guid>
-        
-        <category>research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Kinetic Origami Surface</title>
-        <description>&lt;table&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Academic Project
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Team
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Elisabeth Kathryn, Susan Wu, Le Diha
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Level-year
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Master Study, 2018
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Institution
-            &lt;/td&gt;
-            &lt;td&gt;
-                : National Taiwan University of Science and Technology
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-  Based on triangular deployable structure of Ron Resch’s pattern, a kinetic surface was developed. This adjustable surface can be widely applied in smart and responsive architecture, such as sun shading device, acoustic ceiling panel, and many others. Different mechanical and electronic automation systems were explored to control the surface adjustment in response to real-time sensor inputs, such as sound or light. Arduino board and scripting platform (which can be connected to Grasshopper, allowing the user to interactively control a 3D simulation) enables this project to integrate digital design and physical model. Understanding the chosen geometry characteristic, scripting logic, electronic and mechanical principal are the core of this project. When this kind of responsive architectural element is integrated in a building design, it can be a powerful feature to make high-performance, energy-efficient and human-interactive architecture.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/portfolio/6/6A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kinetic Origami Surface&quot; /&gt;
-&lt;img src=&quot;images/portfolio/6/6B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kinetic Origami Surface&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2019/09/03/6.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/6.html</guid>
-        
-        <category>research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Phyllotaxis High-rise Building</title>
-        <description>&lt;table&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Individual Academic Project (Master Thesis)
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Level-year
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Master Study, 2018
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Institution
-            &lt;/td&gt;
-            &lt;td&gt;
-                : National Taiwan University of Science and Technology
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-  Phyllotaxis pattern, the arrangement of plant’s leaves around its stem, was studied and applied into high-rise building design. Although plant has a bunch of leaf layers which are arranged vertically, each leaf can absorb enough solar radiation to do photosynthesis. Just like plant, this algorithm enables high-rise building, which normally tends to have limited access to daylight and solar radiation, to have more natural exposure. To define a clear research scope, urban farming tower in Singapore was chosen to be a specific topic to evaluate the building performance in this research. The main objectives were maximizing the floor area while optimizing the solar radiation and duration in each day as needed by the crops. Nearly a thousand different
-parameter combinations were simulated and compared to find the best possible pattern.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/portfolio/5/5A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;
-&lt;img src=&quot;images/portfolio/5/5B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Phyllotaxis High-rise Building&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2019/09/03/5.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/5.html</guid>
-        
-        <category>research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Solar-based Building Form Optimization</title>
-        <description>&lt;table&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Academic Project
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Team
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Elisabeth Kathryn, Anastasia Mimosa
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Level-year
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Master Study, 2017
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Institution
-            &lt;/td&gt;
-            &lt;td&gt;
-                : National Taiwan University of Science and Technology
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-  Environmental simulation was integrated into the early stage of form finding. Galapagos (genetic algorithm solver) was used to test and find the most optimum parameter combination in order to get the best building performance. Several parameters tested in this experiment were the building’s four horizontal section profiles center point location, dimension and ratio. Whereas, the profile’s shape and height, also the total volume of the tower were all fixed. Solar radiation analysis was done for both facade and roof surfaces of the tower. The objective of the first experiment was to minimize the solar radiation which is applicable when the architect needs to reduce the building’s heat gain and reduce the cooling load. Then the objective of the second experiment was to maximize the solar radiation which, for instance, can be applied when the building envelope is built from photovoltaic panels and wants to receive as much energy as it can. The optimization results from two different shapes of profile (oval and rectangle) show similar tendencies.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/portfolio/4/4A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Galapagos Optimization&quot; /&gt;
-&lt;img src=&quot;images/portfolio/4/4B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Galapagos Optimization&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2019/09/03/4.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/4.html</guid>
-        
-        <category>research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Time-capsule</title>
-        <description>&lt;table&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Individual Academic Project
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Level-year
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Master Study, 2017
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Institution
-            &lt;/td&gt;
-            &lt;td&gt;
-                : National Taiwan University of Science and Technology
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;images/portfolio/3/3A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Time-capsule&quot; /&gt;
-&lt;img src=&quot;images/portfolio/3/3B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Time-capsule&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2019/09/03/3.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2019/09/03/3.html</guid>
         
         <category>research</category>
         

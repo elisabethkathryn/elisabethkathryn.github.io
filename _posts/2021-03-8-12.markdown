@@ -6,7 +6,7 @@ modal-id: kaohsiung
 thumbnail: 12.jpg
 
 ---
-<table>
+<table class="table__professional">
     <tbody>
         <tr>
             <td>
@@ -37,8 +37,11 @@ thumbnail: 12.jpg
                 Personal roles
             </td>
             <td>
-                : Build 3D model and simulate construction details of unitized curtain wall system <br>
-                &nbsp;&nbsp;Calculate material quantity
+                : Developed design details of unitized curtain wall system <br>
+                Built 3D model and simulated construction details <br>
+                Made 3D-printed physical model of the curtain wall system details <br>
+                Extracted model's information (material quantity) <br>
+                Prepared shop drawing for sound insulation performance test
             </td>
         </tr>
     </tbody>

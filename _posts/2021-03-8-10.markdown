@@ -6,7 +6,7 @@ modal-id: criminal
 thumbnail: 10.jpg
 
 ---
-<table>
+<table class="table__professional">
     <tbody>
         <tr>
             <td>
@@ -37,9 +37,9 @@ thumbnail: 10.jpg
                 Personal roles
             </td>
             <td>
-                : Build 3D model and simulate construction details of glass stick system curtain wall, stone curtain wall, metal roof, aluminum cladding and canopy, steel sub-structure members <br>
-                &nbsp;&nbsp;Develop construction detailed drawing with respect to architectural drawing and requirement, structural calculation, waterproof line, construction and fabrication feasibility, material availability <br>
-                &nbsp;&nbsp;Produce fabrication drawing with parametric 3D model automation
+                : Built 3D model and simulated construction details of glass stick system curtain wall, stone curtain wall, metal roof, aluminum cladding and canopy, steel sub-structure members <br>
+                Developed construction detailed drawing with respect to architectural drawing and requirement, structural calculation, waterproof line, construction and fabrication feasibility, material availability <br>
+                Produced fabrication drawing with parametric 3D model automation
             </td>
         </tr>
     </tbody>

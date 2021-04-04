@@ -6,7 +6,7 @@ modal-id: rheotomic
 thumbnail: 2.jpg
 
 ---
-<table>
+<table class="table__research">
     <tbody>
         <tr>
             <td>

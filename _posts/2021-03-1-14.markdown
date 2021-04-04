@@ -1,9 +1,9 @@
 ---
-title: Taipei Dome
-subtitle: 臺北大巨蛋
+title: LaLaport Nangang Skybridge
+subtitle: LaLaport 南港空橋
 tag: professional
-modal-id: taipeidome
-thumbnail: 9.jpg
+modal-id: skybridge
+thumbnail: 14.jpg
 
 ---
 <table class="table__professional">
@@ -21,7 +21,7 @@ thumbnail: 9.jpg
                 Scope of work
             </td>
             <td>
-                : Roofing system
+                : Tender stage – skybridge metal cladding and glass facade
             </td>
         </tr>
         <tr>
@@ -29,7 +29,7 @@ thumbnail: 9.jpg
                 Architect
             </td>
             <td>
-                : POPULOUS
+                : C.Y. Lee & Partners 李祖原聯合建築師事務所
             </td>
         </tr>
         <tr>
@@ -37,13 +37,14 @@ thumbnail: 9.jpg
                 Personal roles
             </td>
             <td>
-                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+                : Building facade parametric 3D modeling <br>
+                Model's information extraction (material quantity, element's unique code, type and location)
             </td>
         </tr>
     </tbody>
 </table>
 <br>
+<img src="images/portfolio/14/14A.jpg" class="img-responsive img-centered" alt="LaLaport Nangang Skybridge">
+<br>
+<img src="images/portfolio/14/14B.jpg" class="img-responsive img-centered" alt="LaLaport Nangang Skybridge">
 
-<img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
-
-Source: <a href="https://gomore.com.tw/2015/project_TD.html"> https://gomore.com.tw/2015/project_TD.html </a>

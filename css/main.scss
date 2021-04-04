@@ -2066,3 +2066,14 @@ filter: grayscale(100%);
 			}
 		}
 	}
+.table__professional {
+	tr > :first-child {
+		width: 10em;
+	}
+}
+
+.table__research {
+	tr > :first-child {
+		width: 10em;
+	}
+}
