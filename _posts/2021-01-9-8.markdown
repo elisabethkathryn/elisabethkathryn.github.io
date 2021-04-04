@@ -6,7 +6,7 @@ modal-id: image
 thumbnail: 8.jpg
 
 ---
-<table>
+<table class="table__research">
     <tbody>
         <tr>
             <td>

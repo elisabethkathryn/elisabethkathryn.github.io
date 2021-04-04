@@ -1,0 +1,51 @@
+---
+title: Taichung Green Museumbrary
+subtitle: 台中綠美圖
+tag: professional
+modal-id: museumbrary
+thumbnail: 15.jpg
+
+---
+<table class="table__professional">
+    <tbody>
+        <tr>
+            <td>
+                Company&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Gomore Building Envelope Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scope of work
+            </td>
+            <td>
+                : Tender stage – glass and metal mesh facade
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : Kazuyo Sejima + Ryue Nishizawa / SANAA
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Personal roles
+            </td>
+            <td>
+                : Building facade 3D modeling <br>
+                Model's information extraction (material quantity)
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<img src="images/portfolio/15/15A.jpg" class="img-responsive img-centered" alt="Taichung Green Museumbrary">
+<br>
+<img src="images/portfolio/15/15B.jpg" class="img-responsive img-centered" alt="Taichung Green Museumbrary">
+Source: <a href="https://www.taiwannews.com.tw/en/news/3767568"> https://www.taiwannews.com.tw/en/news/3767568 </a>
+

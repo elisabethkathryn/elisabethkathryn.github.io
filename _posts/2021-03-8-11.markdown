@@ -6,7 +6,7 @@ modal-id: taoyuan
 thumbnail: 11.jpg
 
 ---
-<table>
+<table class="table__professional">
     <tbody>
         <tr>
             <td>
@@ -37,9 +37,9 @@ thumbnail: 11.jpg
                 Personal roles
             </td>
             <td>
-                : Build parametric 3D model and simulate construction details of the roofing system <br>
-                &nbsp;&nbsp;Develop and optimize the roofing system with respect to architectural drawing, structural consideration, construction and fabrication feasibility <br>
-                &nbsp;&nbsp;Calculate material quantity
+                : Built parametric 3D model and simulated construction details of the roofing system <br>
+                Developed and optimized the roofing system design with respect to architectural drawing, structural consideration, construction and fabrication feasibility <br>
+                Calculated material quantity, which was automatically extracted from parametric 3d model 
             </td>
         </tr>
     </tbody>

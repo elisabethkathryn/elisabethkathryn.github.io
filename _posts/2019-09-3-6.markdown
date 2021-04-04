@@ -5,7 +5,7 @@ tag: research
 modal-id: kinetic
 thumbnail: 6.jpg
 ---
-<table>
+<table class="table__research">
     <tbody>
         <tr>
             <td>
