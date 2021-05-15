@@ -51,4 +51,4 @@ thumbnail: 12.jpg
 <img src="images/portfolio/12/12A.jpg" class="img-responsive img-centered" alt="Kaohsiung Station">
 <img src="images/portfolio/12/12B.jpg" class="img-responsive img-centered" alt="Kaohsiung Station">
 
-Source: <a href="https://www.archdaily.com/903677/kaohsiung-station-mecanoo"> https://www.archdaily.com/903677/kaohsiung-station-mecanoo </a>
+Image source: <a href="https://www.archdaily.com/903677/kaohsiung-station-mecanoo"> https://www.archdaily.com/903677/kaohsiung-station-mecanoo </a>

@@ -47,5 +47,5 @@ thumbnail: 15.jpg
 <img src="images/portfolio/15/15A.jpg" class="img-responsive img-centered" alt="Taichung Green Museumbrary">
 <br>
 <img src="images/portfolio/15/15B.jpg" class="img-responsive img-centered" alt="Taichung Green Museumbrary">
-Source: <a href="https://www.taiwannews.com.tw/en/news/3767568"> https://www.taiwannews.com.tw/en/news/3767568 </a>
+Image source: <a href="https://www.taiwannews.com.tw/en/news/3767568"> https://www.taiwannews.com.tw/en/news/3767568 </a>
 
