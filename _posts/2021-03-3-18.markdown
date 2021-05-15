@@ -1,9 +1,9 @@
 ---
-title: Taipei Dome
-subtitle: 臺北大巨蛋
+title: Yulon Group Executive Office
+subtitle:
 tag: professional
-modal-id: taipeidome
-thumbnail: 9.jpg
+modal-id: Yulon
+thumbnail: 18.jpg
 
 ---
 <table class="table__professional">
@@ -21,7 +21,7 @@ thumbnail: 9.jpg
                 Scope of work
             </td>
             <td>
-                : Roofing system
+                : Tender stage – Podium curved metal facade
             </td>
         </tr>
         <tr>
@@ -29,7 +29,7 @@ thumbnail: 9.jpg
                 Architect
             </td>
             <td>
-                : POPULOUS
+                : Zaha Hadid Architects
             </td>
         </tr>
         <tr>
@@ -37,13 +37,12 @@ thumbnail: 9.jpg
                 Personal roles
             </td>
             <td>
-                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+                : Rebuild 3D model of the curved metal facade and its sub-structure (as a participant of internal company training)
             </td>
         </tr>
     </tbody>
 </table>
 <br>
-
-<img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
-
-Image source: <a href="https://gomore.com.tw/2015/project_TD.html"> https://gomore.com.tw/2015/project_TD.html </a>
+<img src="images/portfolio/18/18A.jpg" class="img-responsive img-centered" alt="Yulon Group">
+<br>
+Image source: <a href="https://id.pinterest.com/pin/427842033331761955/"> https://id.pinterest.com/pin/427842033331761955/ </a>

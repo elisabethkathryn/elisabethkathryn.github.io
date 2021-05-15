@@ -1,9 +1,9 @@
 ---
-title: Taipei Dome
-subtitle: 臺北大巨蛋
+title: Fengshan Train Station
+subtitle: 鳳山車站 
 tag: professional
-modal-id: taipeidome
-thumbnail: 9.jpg
+modal-id: Fengshan
+thumbnail: 19.jpg
 
 ---
 <table class="table__professional">
@@ -21,15 +21,15 @@ thumbnail: 9.jpg
                 Scope of work
             </td>
             <td>
-                : Roofing system
+                : Metal and glass facade
             </td>
         </tr>
         <tr>
             <td>
-                Architect
+                Detail design consultant
             </td>
             <td>
-                : POPULOUS
+                : CECI Engineering Consultants, Inc., Taiwan
             </td>
         </tr>
         <tr>
@@ -37,13 +37,14 @@ thumbnail: 9.jpg
                 Personal roles
             </td>
             <td>
-                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+                : Prepare construction drawing of metal secondary skin
             </td>
         </tr>
     </tbody>
 </table>
 <br>
+<img src="images/portfolio/19/19A.jpg" class="img-responsive img-centered" alt="Fengshan">
+<br>
+<img src="images/portfolio/19/19B.jpg" class="img-responsive img-centered" alt="Fengshan">
+Image source: <a href="https://news.ltn.com.tw/news/life/breakingnews/3338880"> https://news.ltn.com.tw/news/life/breakingnews/3338880 </a>
 
-<img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
-
-Image source: <a href="https://gomore.com.tw/2015/project_TD.html"> https://gomore.com.tw/2015/project_TD.html </a>

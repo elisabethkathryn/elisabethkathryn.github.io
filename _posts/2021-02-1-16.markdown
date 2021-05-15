@@ -47,5 +47,5 @@ thumbnail: 16.jpg
 <img src="images/portfolio/16/16A.jpg" class="img-responsive img-centered" alt="Taipei Nangang Biotechnology Industry">
 <br>
 <img src="images/portfolio/16/16B.jpg" class="img-responsive img-centered" alt="Taipei Nangang Biotechnology Industry">
-Source: <a href="https://estate.ltn.com.tw/article/5757"> https://estate.ltn.com.tw/article/5757 </a>
+Image source: <a href="https://estate.ltn.com.tw/article/5757"> https://estate.ltn.com.tw/article/5757 </a>
 

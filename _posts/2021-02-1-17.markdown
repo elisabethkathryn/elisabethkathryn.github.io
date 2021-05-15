@@ -47,5 +47,5 @@ thumbnail: 17.jpg
 <img src="images/portfolio/17/17A.jpg" class="img-responsive img-centered" alt="Taipei Nangang Biotechnology Industry">
 <br>
 <img src="images/portfolio/17/17B.jpg" class="img-responsive img-centered" alt="Taipei Nangang Biotechnology Industry">
-Source: <a href="https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya"> https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya </a>
+Image source: <a href="https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya"> https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya </a>
 

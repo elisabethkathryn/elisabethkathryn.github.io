@@ -5,8 +5,8 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 May 2021 07:25:49 +0000</pubDate>
-    <lastBuildDate>Sat, 15 May 2021 07:25:49 +0000</lastBuildDate>
+    <pubDate>Sat, 15 May 2021 14:00:54 +0000</pubDate>
+    <lastBuildDate>Sat, 15 May 2021 14:00:54 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -51,7 +51,7 @@
 
 &lt;p&gt;&lt;img src=&quot;images/portfolio/9/9A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Dome&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;https://gomore.com.tw/2015/project_TD.html&quot;&gt; https://gomore.com.tw/2015/project_TD.html &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image source: &lt;a href=&quot;https://gomore.com.tw/2015/project_TD.html&quot;&gt; https://gomore.com.tw/2015/project_TD.html &lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/03/08/9.html</link>
@@ -109,7 +109,7 @@
 &lt;p&gt;&lt;img src=&quot;images/portfolio/12/12A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kaohsiung Station&quot; /&gt;
 &lt;img src=&quot;images/portfolio/12/12B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Kaohsiung Station&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;https://www.archdaily.com/903677/kaohsiung-station-mecanoo&quot;&gt; https://www.archdaily.com/903677/kaohsiung-station-mecanoo &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image source: &lt;a href=&quot;https://www.archdaily.com/903677/kaohsiung-station-mecanoo&quot;&gt; https://www.archdaily.com/903677/kaohsiung-station-mecanoo &lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/03/08/12.html</link>
@@ -165,11 +165,63 @@
 &lt;p&gt;&lt;img src=&quot;images/portfolio/11/11A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;T3&quot; /&gt;
 &lt;img src=&quot;images/portfolio/11/11B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;T3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;https://www.arup.com/projects/taoyuan-international-airport-terminal-3&quot;&gt; https://www.arup.com/projects/taoyuan-international-airport-terminal-3 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image source: &lt;a href=&quot;https://www.arup.com/projects/taoyuan-international-airport-terminal-3&quot;&gt; https://www.arup.com/projects/taoyuan-international-airport-terminal-3 &lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/03/08/11.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/08/11.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Yulon Group Executive Office</title>
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Tender stage – Podium curved metal facade
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Architect
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Zaha Hadid Architects
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Rebuild 3D model of the curved metal facade and its sub-structure (as a participant of internal company training)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/18/18A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Yulon Group&quot; /&gt;
+&lt;br /&gt;
+Image source: &lt;a href=&quot;https://id.pinterest.com/pin/427842033331761955/&quot;&gt; https://id.pinterest.com/pin/427842033331761955/ &lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/03/03/18.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/03/18.html</guid>
         
         <category>professional</category>
         
@@ -221,11 +273,11 @@
 &lt;p&gt;&lt;img src=&quot;images/portfolio/10/10A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;CID&quot; /&gt;
 &lt;img src=&quot;images/portfolio/10/10B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;CID&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;https://www.storm.mg/localarticle/247544&quot;&gt; https://www.storm.mg/localarticle/247544 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image source: &lt;a href=&quot;https://www.storm.mg/localarticle/247544&quot;&gt; https://www.storm.mg/localarticle/247544 &lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2021/03/08/10.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/08/10.html</guid>
+        <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/03/02/10.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/02/10.html</guid>
         
         <category>professional</category>
         
@@ -329,12 +381,66 @@
 &lt;img src=&quot;images/portfolio/13/13B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang&quot; /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;images/portfolio/13/13A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang&quot; /&gt;
-Source: &lt;a href=&quot;https://tw-landmark.blogspot.com/2019/06/lalaport-nangang.html&quot;&gt; https://www.archdaily.com/903677/kaohsiung-station-mecanoo &lt;/a&gt;&lt;/p&gt;
+Image source: &lt;a href=&quot;https://tw-landmark.blogspot.com/2019/06/lalaport-nangang.html&quot;&gt; https://www.archdaily.com/903677/kaohsiung-station-mecanoo &lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/03/01/13.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/01/13.html</guid>
+        
+        <category>professional</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fengshan Train Station</title>
+        <description>&lt;table class=&quot;table__professional&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Gomore Building Envelope Technology
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Scope of work
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Metal and glass facade
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Detail design consultant
+            &lt;/td&gt;
+            &lt;td&gt;
+                : CECI Engineering Consultants, Inc., Taiwan
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Personal roles
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Prepare construction drawing of metal secondary skin
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/19/19A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Fengshan&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;images/portfolio/19/19B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Fengshan&quot; /&gt;
+Image source: &lt;a href=&quot;https://news.ltn.com.tw/news/life/breakingnews/3338880&quot;&gt; https://news.ltn.com.tw/news/life/breakingnews/3338880 &lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/02/03/19.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/02/03/19.html</guid>
         
         <category>professional</category>
         
@@ -384,7 +490,7 @@ Source: &lt;a href=&quot;https://tw-landmark.blogspot.com/2019/06/lalaport-nanga
 &lt;img src=&quot;images/portfolio/15/15A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taichung Green Museumbrary&quot; /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;images/portfolio/15/15B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taichung Green Museumbrary&quot; /&gt;
-Source: &lt;a href=&quot;https://www.taiwannews.com.tw/en/news/3767568&quot;&gt; https://www.taiwannews.com.tw/en/news/3767568 &lt;/a&gt;&lt;/p&gt;
+Image source: &lt;a href=&quot;https://www.taiwannews.com.tw/en/news/3767568&quot;&gt; https://www.taiwannews.com.tw/en/news/3767568 &lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
@@ -439,7 +545,7 @@ Source: &lt;a href=&quot;https://www.taiwannews.com.tw/en/news/3767568&quot;&gt;
 &lt;img src=&quot;images/portfolio/17/17A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;images/portfolio/17/17B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
-Source: &lt;a href=&quot;https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya&quot;&gt; https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya &lt;/a&gt;&lt;/p&gt;
+Image source: &lt;a href=&quot;https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya&quot;&gt; https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya &lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -447,108 +553,6 @@ Source: &lt;a href=&quot;https://wedid.ntpc.gov.tw/happiness/detail/1O6JmazO2qya
         <guid isPermaLink="true">http://0.0.0.0:8080/2021/02/01/17.html</guid>
         
         <category>professional</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Taipei Nangang Biotechnology Industry</title>
-        <description>&lt;table class=&quot;table__professional&quot;&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Gomore Building Envelope Technology
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Scope of work
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Tender stage – glass curtain wall (tower and podium)
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Architect
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Fei &amp;amp; Cheng Associates 宗邁建築師事務所
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Personal roles
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Building facade 3D modeling (conceptual whole building model and unitized curtain wall system detailed model) &lt;br /&gt;
-                Model's information extraction (material quantity)
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;images/portfolio/16/16A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;images/portfolio/16/16B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Nangang Biotechnology Industry&quot; /&gt;
-Source: &lt;a href=&quot;https://estate.ltn.com.tw/article/5757&quot;&gt; https://estate.ltn.com.tw/article/5757 &lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2021/02/01/16.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2021/02/01/16.html</guid>
-        
-        <category>professional</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Image-based Folding Panel</title>
-        <description>&lt;table class=&quot;table__research&quot;&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Company Research and Development Project
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Year
-            &lt;/td&gt;
-            &lt;td&gt;
-                : 2019
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Institution
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Gomore Building Envelope Technology &amp;amp; 特建金屬實業有限公司
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-  This project is inspired by Emerson College, Los Angeles by Morphosis Architect. As can be seen in this project, flat metal sheets can be attractively designed and arranged to form a very dynamic facade. Fabrication feasibility and efficiency become important considerations in the entire design process.&lt;/p&gt;
-
-&lt;p&gt;  Panel variations are rationalized into limited number of unit types. In addition to the panel folds, the L shape adds more directionality which make more variation to the overall look. The cutting shape is also optimized to minimize metal sheet waste. Laser cut and press brake machines, relatively common fabrication methods in metal industry, are used in this project.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/portfolio/8/8A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Image-based Folding Panel&quot; /&gt;
-&lt;img src=&quot;images/portfolio/8/8B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Image-based Folding Panel&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2021/01/09/8.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2021/01/09/8.html</guid>
-        
-        <category>research</category>
         
         
       </item>
