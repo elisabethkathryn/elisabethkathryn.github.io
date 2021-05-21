@@ -1,0 +1,49 @@
+---
+title: News
+subtitle: 臺北大巨蛋
+tag: news
+thumbnail: 9.jpg
+layout: news
+permalink: /news/taipeidome.html
+---
+<table class="table__professional">
+    <tbody>
+        <tr>
+            <td>
+                Company&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Gomore Building Envelope Technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scope of work
+            </td>
+            <td>
+                : Roofing system
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Architect
+            </td>
+            <td>
+                : POPULOUS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Personal roles
+            </td>
+            <td>
+                : Roof construction accuracy analysis (compared on-site 3D scanned surface with the original design 3D model, measured the difference between those two surfaces, analyzed problems, possible causes, and future improvement solutions)
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+<img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
+
+Image source: <a href="https://gomore.com.tw/2015/project_TD.html"> https://gomore.com.tw/2015/project_TD.html </a>
