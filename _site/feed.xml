@@ -5,8 +5,8 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 May 2021 15:22:14 +0000</pubDate>
-    <lastBuildDate>Fri, 21 May 2021 15:22:14 +0000</lastBuildDate>
+    <pubDate>Sat, 22 May 2021 11:53:05 +0000</pubDate>
+    <lastBuildDate>Sat, 22 May 2021 11:53:05 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -49,7 +49,7 @@
 &lt;/table&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;images/portfolio/9/9A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Dome&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/portfolio/9/9A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Taipei Dome&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Image source: &lt;a href=&quot;https://gomore.com.tw/2015/project_TD.html&quot;&gt; https://gomore.com.tw/2015/project_TD.html &lt;/a&gt;&lt;/p&gt;
 </description>

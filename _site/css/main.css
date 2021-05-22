@@ -206,6 +206,8 @@ pre code { display: block; line-height: 1.75em; padding: 1em 1.5em; overflow-x: 
 /* Section/Article */
 section.special, article.special { text-align: center; }
 
+header.news { height: 1em; }
+
 header p { color: rgba(255, 255, 255, 0.5); position: relative; top: -0.25em; }
 
 header h3 + p { font-size: 1.1em; }
@@ -520,6 +522,8 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 @media screen and (max-width: 980px) { .wrapper > .inner { width: 100%; } }
 
+.wrapper.news { padding: 2em 0 0.1em 0 ; }
+
 .wrapper.alt { padding: 0; }
 
 .wrapper.style1 { background-color: #21b2a6; color: #c8ece9; }
@@ -824,6 +828,14 @@ body.is-loading #banner:after { opacity: 1; }
 
 /* Main */
 #main > header { padding: 12em 0 10em 0 ; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg"); background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover; text-align: center; }
+
+#main > header.news { padding: 5em 0 3em 0 ; display: flex; flex-direction: row; justify-content: center; align-items: center; position: relative; }
+
+#main > header.news button { font-size: 1.5em; height: 100%; width: 2px; padding: 1.5em; box-shadow: none; text-align: center; line-height: 1em; }
+
+#main > header.news h2 { font-size: 1.75em; margin: 0 0 1em 0; }
+
+#main > header .back { position: absolute; left: 30px; top: 0; }
 
 #main > header h2 { font-size: 1.75em; margin: 0 0 0.5em 0; }
 

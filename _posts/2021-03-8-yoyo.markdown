@@ -44,6 +44,6 @@ permalink: /news/taipeidome.html
 </table>
 <br>
 
-<img src="images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
+<img src="/images/portfolio/9/9A.jpg" class="img-responsive img-centered" alt="Taipei Dome">
 
 Image source: <a href="https://gomore.com.tw/2015/project_TD.html"> https://gomore.com.tw/2015/project_TD.html </a>
