@@ -1798,7 +1798,7 @@ width: 100%;
 
 #portfolio .portfolio-item {
     right: 0;
-		// max-width: 20em;
+		max-width: 20em;
 		// max-width:100%;
 		max-height:24em;
 		// left:10;
@@ -1895,6 +1895,7 @@ width: 100%;
     #portfolio .portfolio-item {
         margin: 0 0 30px;
 				padding: 10px;
+				max-width: 20em;
     }
 }
 
