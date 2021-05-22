@@ -16,10 +16,12 @@ layout: default
 
   <section class="wrapper style5 news">
     <div class="inner">
-		<time id="postedon" datetime="{{ page.date | date_to_xmlschema }}">
-			posted <span id="postedago"></span>
-			on {{ page.date | date: "%B %-d, %Y" }}
-	</time>
+		<div id="postedon-div">
+			<time id="postedon" datetime="{{ page.date | date_to_xmlschema }}">
+				posted <span id="postedago"></span>
+				on {{ page.date | date: "%B %-d, %Y" }}
+		</time>
+	</div>
       {{ content }}
     </div>
   </section>

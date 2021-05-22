@@ -10,6 +10,10 @@ $baseurl: '{{ site.baseurl }}/images';
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 
+#postedon-div {
+	margin-bottom: 1.5em;
+	font-size: 0.8em;
+}
 /*
 	Spectral by HTML5 UP
 	html5up.net | @n33co
@@ -1254,7 +1258,14 @@ width: 100%;
 			}
 		}
 		&.news {
-			@include padding(2em, 0)
+			padding: 1em 2em 1em 2em;
+
+			.img-responsive {
+					// right: 0;
+					// max-height: 289px;
+					max-width:100%;
+					max-height:100%;
+				}
 		}
 
 		&.alt {
@@ -1727,6 +1738,7 @@ width: 100%;
 					font-size: 1.75em;
 					margin: 0 0 1em 0;
 				}
+				
 			}
 			.back {
 				position: absolute;
@@ -1786,11 +1798,11 @@ width: 100%;
 
 #portfolio .portfolio-item {
     right: 0;
-		max-width: 20em;
+		// max-width: 20em;
 		// max-width:100%;
 		max-height:24em;
 		// left:10;
-	  margin-left: 10%;
+	  // margin-left: 10%;
 		min-height: 24em;
 		// padding: 0 -10px 15px;
 		// padding: -10%;
@@ -1826,7 +1838,11 @@ width: 100%;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
     // background: rgba(254,209,54, .9); /*rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }} */
 }
-
+.item-row {
+	display: flex;
+	align-items: center;
+	flex-wrap:wrap;
+}
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1;
 }
@@ -1878,6 +1894,7 @@ width: 100%;
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
+				padding: 10px;
     }
 }
 
