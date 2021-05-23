@@ -3,8 +3,8 @@
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
-
+var body = document.getElementsByTagName('body')
+var menuToggle = () => body[0].classList.toggle("is-menu-visible");
 (function($) {
 
 	skel
@@ -78,16 +78,18 @@
 			$('#menu')
 				.append('<a href="#menu" class="close"></a>')
 				.appendTo($body)
-				.panel({
-					delay: 500,
-					hideOnClick: true,
-					hideOnSwipe: true,
-					resetScroll: true,
-					resetForms: true,
-					side: 'right',
-					target: $body,
-					visibleClass: 'is-menu-visible'
-				});
+			var close = document.getElementsByClassName('close')
+			close[0].addEventListener('click', menuToggle, false)
+				// .panel({
+				// 	delay: 500,
+				// 	hideOnClick: true,
+				// 	hideOnSwipe: true,
+				// 	resetScroll: true,
+				// 	resetForms: true,
+				// 	side: 'right',
+				// 	target: $body,
+				// 	visibleClass: 'is-menu-visible'
+				// });
 
 		// Header.
 			if (skel.vars.IEVersion < 9)
@@ -176,9 +178,10 @@ function ago(date) {
 }
 
 var menu = document.getElementById('nav')
-var body = document.getElementsByTagName('body')
-var menuToggle = () => body[0].classList.toggle("is-menu-visible");
+
+
 menu.addEventListener('click', menuToggle, false)
+
 
 var date = Date.parse(document.getElementById("postedon").getAttribute("datetime"));
 document.getElementById("postedago").innerHTML = ago(date);
