@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+
+<article id="main">
+
+    <header class="news">
+			<button class="back" onClick="window.history.back">
+				 < 
+			</button>
+				<h2>{{ page.title }}</h2>
+			</header>
+			
+
+
+  <section class="wrapper style5 news">
+    <div class="inner">
+		<div id="postedon-div">
+			<time id="postedon" datetime="{{ page.date | date_to_xmlschema }}">
+				posted <span id="postedago"></span>
+				on {{ page.date | date: "%B %-d, %Y" }}
+		</time>
+	</div>
+      {{ content }}
+    </div>
+  </section>
+
+
+</article>

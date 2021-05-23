@@ -1,0 +1,16 @@
+---
+title: Architecture and Technology
+subtitle: coRelasi Podcast
+tag: news
+thumbnail: 1.jpg
+layout: news
+permalink: /blog/architecture-and-technology.html
+show_home: true
+---
+A casual talk about my personal life and how some technologies came across my study and career paths. Personal backgrounds, curiosity, experiments, and experiences have been shaping my vision about architecture design and construction world. (delivered in Bahasa)
+
+<div>
+<iframe src="https://open.spotify.com/embed/episode/3hdHdtP7IeWs3OAjhyLNYN" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<a href="https://podcasts.apple.com/id/podcast/56-arsitektur-dan-teknologi/id1514624549?i=1000522582428"><img style="height:50px;" src="/images/news/apple-podcast.png"/></a>
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMGE3NDI1MC9wb2RjYXN0L3Jzcw/episode/MTcyYjc2ZTktYjAzYy00NzhlLWIxMjMtOTA2OWU3MTFjNjNi?sa=X&ved=0CAUQkfYCahcKEwjYz4W2gtvwAhUAAAAAHQAAAAAQAQ"><img style="height:50px;" src="/images/news/google-podcast.png"/></a>
+<a href="https://anchor.fm/corelasi/episodes/56-Arsitektur-Dan-Teknologi-e10m95q"><img style="height:50px;" src="/images/news/anchorfm.png"/></a>

@@ -10,6 +10,10 @@ $baseurl: '{{ site.baseurl }}/images';
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 
+#postedon-div {
+	margin-bottom: 1.5em;
+	font-size: 0.8em;
+}
 /*
 	Spectral by HTML5 UP
 	html5up.net | @n33co
@@ -32,6 +36,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		grid: ( gutters: 1.5em )
 	));
 
+#news {
+
+}
 /* Basic */
 
 	@-ms-viewport {
@@ -112,6 +119,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	h2 {
 		font-size: 1.35em;
 		line-height: 1.75em;
+		text-align: center;
 
 		@include breakpoint(small) {
 			font-size: 1.1em;
@@ -218,6 +226,9 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	header {
+		&.news {
+			min-height: 1em;
+		}
 		p {
 			color: _palette(fg-light);
 			position: relative;
@@ -978,6 +989,7 @@ width: 100%;
 
 	.spotlight {
 		@include vendor('align-items', 'center');
+		@include vendor('justify-content', 'center');
 		@include vendor('display', 'flex');
 
 		.image {
@@ -996,6 +1008,9 @@ width: 100%;
 			@include vendor('order', '2');
 			max-width: 55em;
 			width: 70%;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
 		}
 
 		&:nth-child(2n) {
@@ -1249,6 +1264,16 @@ width: 100%;
 			@include breakpoint(medium) {
 				width: 100%;
 			}
+		}
+		&.news {
+			padding: 1em 2em 1em 2em;
+
+			.img-responsive {
+					// right: 0;
+					// max-height: 289px;
+					max-width:100%;
+					max-height:100%;
+				}
 		}
 
 		&.alt {
@@ -1700,7 +1725,40 @@ width: 100%;
 			background-repeat: no-repeat;
 			background-size: cover;
 			text-align: center;
+      &.news {
+				@include padding(5em, 0);
+					display: flex;
+					flex-direction: row;
+					justify-content: center;
+					align-items: center;
+					position:relative;
 
+					button {
+						font-size: 1.5em;
+						height: 100%;
+						width: 2px;
+						padding: 1.5em;
+						box-shadow: none;
+						text-align: center;
+						line-height: 1em;
+						position: absolute;
+						left: 2vw;
+					}
+				h2 {
+					font-size: 1.75em;
+					margin: 0 0 1em 0;
+					width: 80vw;
+
+				}
+				
+			}
+			// .back {
+				// position: absolute;
+				// left: 30px;
+				// top: 0;
+				
+			// }
+			
 			h2 {
 				font-size: 1.75em;
 				margin: 0 0 (_size(element-margin) * 0.25) 0;
@@ -1753,12 +1811,12 @@ width: 100%;
 
 #portfolio .portfolio-item {
     right: 0;
-		max-width: 20em;
+		// max-width: 20em;
 		// max-width:100%;
-		max-height:24em;
+		// max-height:24em;
 		// left:10;
-	  margin-left: 10%;
-		min-height: 24em;
+	  // margin-left: 10%;
+		// min-height: 24em;
 		// padding: 0 -10px 15px;
 		// padding: -10%;
 }
@@ -1769,20 +1827,20 @@ width: 100%;
 // 		max-height:100%;
 // 	}
 
-#portfolio .portfolio-item .img-responsive{
+.portfolio-item .img-responsive{
     right: 0;
 		// max-height: 289px;
 		max-width:100%;
 		max-height:100%;
 	}
-#portfolio .portfolio-item .portfolio-link {
+.portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+.portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -1793,12 +1851,16 @@ width: 100%;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
     // background: rgba(254,209,54, .9); /*rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }} */
 }
-
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+.item-row {
+	display: flex;
+	align-items: flex-start;
+	flex-wrap:wrap;
+}
+.portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -1809,42 +1871,58 @@ width: 100%;
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+.portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+.portfolio-item .portfolio-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
     text-align: center;
     background-color: #fff;
 }
+.news-wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	overflow-x: hidden;
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+	.portfolio-caption {
+	background-color: transparent;
+	h4, p {
+		color: white;
+
+	}
+}
+}
+
+.portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+.portfolio-item .portfolio-caption p {
     margin: 0 ;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
 }
 
-#portfolio * {
+* {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
-        margin: 0 0 30px;
+    .portfolio-item {
+        // margin: 0 0 30px;
+				padding: 10px;
+				max-width: 20em;
     }
 }
 
