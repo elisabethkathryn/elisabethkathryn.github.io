@@ -1,0 +1,14 @@
+---
+title: Arsitektur dan Teknologi
+subtitle: coRelasi Podcast
+tag: news
+thumbnail: 1.jpg
+layout: news
+permalink: /blog/taipeidome.html
+---
+A casual talk about my personal life and how some technologies came across my study and career paths. Personal backgrounds, curiosity, experiments, and experiences have been shaping my vision about architecture design and construction world. (delivered in Bahasa)
+
+Spotify: https://open.spotify.com/episode/3hdHdtP7IeWs3OAjhyLNYN
+Apple Podcast: https://podcasts.apple.com/id/podcast/56-arsitektur-dan-teknologi/id1514624549?i=1000522582428
+Google Podcast: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMGE3NDI1MC9wb2RjYXN0L3Jzcw/episode/MTcyYjc2ZTktYjAzYy00NzhlLWIxMjMtOTA2OWU3MTFjNjNi?sa=X&ved=0CAUQkfYCahcKEwjYz4W2gtvwAhUAAAAAHQAAAAAQAQ 
+Anchor Podcast: https://anchor.fm/corelasi/episodes/56-Arsitektur-Dan-Teknologi-e10m95q
