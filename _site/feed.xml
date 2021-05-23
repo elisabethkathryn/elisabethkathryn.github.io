@@ -5,8 +5,8 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 May 2021 00:11:20 +0000</pubDate>
-    <lastBuildDate>Sun, 23 May 2021 00:11:20 +0000</lastBuildDate>
+    <pubDate>Sun, 23 May 2021 00:40:13 +0000</pubDate>
+    <lastBuildDate>Sun, 23 May 2021 00:40:13 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/blog/taipeidome.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/blog/taipeidome.html</guid>
+        <link>http://0.0.0.0:8080/blog/beyond-parametric-gimmick.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/blog/beyond-parametric-gimmick.html</guid>
         
         <category>news</category>
         
@@ -26,17 +26,19 @@
       </item>
     
       <item>
-        <title>Arsitektur dan Teknologi</title>
+        <title>Architecture and Technology</title>
         <description>&lt;p&gt;A casual talk about my personal life and how some technologies came across my study and career paths. Personal backgrounds, curiosity, experiments, and experiences have been shaping my vision about architecture design and construction world. (delivered in Bahasa)&lt;/p&gt;
 
-&lt;p&gt;Spotify: https://open.spotify.com/episode/3hdHdtP7IeWs3OAjhyLNYN
-Apple Podcast: https://podcasts.apple.com/id/podcast/56-arsitektur-dan-teknologi/id1514624549?i=1000522582428
-Google Podcast: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMGE3NDI1MC9wb2RjYXN0L3Jzcw/episode/MTcyYjc2ZTktYjAzYy00NzhlLWIxMjMtOTA2OWU3MTFjNjNi?sa=X&amp;amp;ved=0CAUQkfYCahcKEwjYz4W2gtvwAhUAAAAAHQAAAAAQAQ 
-Anchor Podcast: https://anchor.fm/corelasi/episodes/56-Arsitektur-Dan-Teknologi-e10m95q&lt;/p&gt;
+&lt;div&gt;
+&lt;iframe src=&quot;https://open.spotify.com/embed/episode/3hdHdtP7IeWs3OAjhyLNYN&quot; width=&quot;100%&quot; height=&quot;232&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;
+&lt;a href=&quot;https://podcasts.apple.com/id/podcast/56-arsitektur-dan-teknologi/id1514624549?i=1000522582428&quot;&gt;&lt;img style=&quot;height:50px;&quot; src=&quot;/images/news/apple-podcast.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMGE3NDI1MC9wb2RjYXN0L3Jzcw/episode/MTcyYjc2ZTktYjAzYy00NzhlLWIxMjMtOTA2OWU3MTFjNjNi?sa=X&amp;amp;ved=0CAUQkfYCahcKEwjYz4W2gtvwAhUAAAAAHQAAAAAQAQ&quot;&gt;&lt;img style=&quot;height:50px;&quot; src=&quot;/images/news/google-podcast.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://anchor.fm/corelasi/episodes/56-Arsitektur-Dan-Teknologi-e10m95q&quot;&gt;&lt;img style=&quot;height:50px;&quot; src=&quot;/images/news/anchorfm.png&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/blog/taipeidome.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/blog/taipeidome.html</guid>
+        <link>http://0.0.0.0:8080/blog/architecture-and-technology.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/blog/architecture-and-technology.html</guid>
         
         <category>news</category>
         
