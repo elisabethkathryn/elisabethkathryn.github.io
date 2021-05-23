@@ -175,13 +175,13 @@ function ago(date) {
     return render(interval, "second");
 }
 
+var menu = document.getElementById('nav')
+var body = document.getElementsByTagName('body')
+var menuToggle = () => body[0].classList.toggle("is-menu-visible");
+menu.addEventListener('click', menuToggle, false)
+
 var date = Date.parse(document.getElementById("postedon").getAttribute("datetime"));
 document.getElementById("postedago").innerHTML = ago(date);
 
 var backbutton = document.getElementsByClassName("back")[0]; 
 backbutton.addEventListener("click", ()=>window.history.back());
-
-var menu = document.getElementById('nav')
-var body = document.getElementsByTagName('body')
-var menuToggle = () => body[0].classList.toggle("is-menu-visible");
-menu.addEventListener('click', menuToggle, false)
