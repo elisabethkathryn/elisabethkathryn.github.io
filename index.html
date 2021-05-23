@@ -29,11 +29,46 @@ layout: landing
 
 						</div>
 					</section>
+<section>
 
-				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
+	<!-- news -->
+	<section id="news" class="alt">
+			<section class="spotlight">
+				<!-- <div class="image"></div> -->
+				<div class="content">
+			<h2>Blog</h2>
+			<div class="news-wrapper">
+				{% for post in site.posts %}
+					{% if post.tag == "news" %}
+						{% if post.show_home == true %}
+						<div class="col-md-4 col-sm-6 portfolio-item">
+								<a href="{{ post.permalink }}" class="portfolio-link" data-toggle="modal">
+										<div class="portfolio-hover">
+												<!-- <div class="portfolio-hover-content"> -->
+														<!-- <i class="fa fa-plus fa-3x"></i> -->
+														<img src="/images/news/THUMBNAIL/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+												<!-- </div> -->
+										</div>
+										<img src="/images/news/THUMBNAIL/{{ post.thumbnail }}" class="img-responsive img-centered grayscale" alt="">
+								</a>
+								<div class="portfolio-caption">
+										<h4>{{ post.title }}</h4>
+										<p class="text-muted">{{ post.subtitle }}</p>
+								</div>
+						</div>
+						{% endif %}
+					{% endif %}
+				{% endfor %}
+			</div>
+			<a style="margin-bottom: 40px;" href="/blog">Show More</a>
+				</div>
+			</section>
+	</section>
+<!-- Two -->
+	<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"></div><div class="content">
+							<!-- <div class="image"></div> -->
+							<div class="content">
 						<h2>Experiences</h2>
 						<p> <table class="table-wrapper index">
 							<tr>
@@ -79,8 +114,8 @@ layout: landing
 							</div>
 
 							</table></div> -->
-					<div class="image">
-					</div>
+					<!-- <div class="image">
+					</div> -->
 							<div class="content">
 								<h2>Professional Certification</h2>
 								<p> <table class="table-wrapper index">
@@ -106,7 +141,8 @@ layout: landing
 <section>
 </section>
 				<section class="spotlight">
-					<div class="image"></div><div class="content">
+					<!-- <div class="image"></div> -->
+					<div class="content">
 								<h2>Education</h2>
 								<p> <table class="table-wrapper index">
 									<tr>

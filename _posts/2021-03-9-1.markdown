@@ -5,6 +5,7 @@ tag: news
 thumbnail: 1.jpg
 layout: news
 permalink: /blog/architecture-and-technology.html
+show_home: true
 ---
 A casual talk about my personal life and how some technologies came across my study and career paths. Personal backgrounds, curiosity, experiments, and experiences have been shaping my vision about architecture design and construction world. (delivered in Bahasa)
 
