@@ -4,7 +4,7 @@ subtitle: Space Fluidity and Continuity
 tag: research
 modal-id: time
 thumbnail: 3.jpg
-
+layout: nil
 ---
 <table class="table__research">
     <tbody>

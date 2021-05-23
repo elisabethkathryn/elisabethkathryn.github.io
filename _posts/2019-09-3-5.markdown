@@ -4,7 +4,7 @@ subtitle: Biomimicry
 tag: research
 modal-id: phyllotaxis
 thumbnail: 5.jpg
-
+layout: nil
 ---
 <table class="table__research">
     <tbody>

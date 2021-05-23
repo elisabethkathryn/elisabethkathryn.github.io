@@ -4,7 +4,7 @@ subtitle: Generative Modeling
 tag: research
 modal-id: voronoi
 thumbnail: 1.jpg
-
+layout: nil
 ---
 <table class="table__research">
     <tbody>

@@ -4,6 +4,7 @@ subtitle: Arduino Integrated Prototype
 tag: research
 modal-id: kinetic
 thumbnail: 6.jpg
+layout: nil
 ---
 <table class="table__research">
     <tbody>
