@@ -4,7 +4,7 @@ subtitle: Robot Arm Digital Fabrication
 tag: research
 modal-id: metal
 thumbnail: 7.jpg
-
+layout: nil
 ---
 <table class="table__research">
     <tbody>

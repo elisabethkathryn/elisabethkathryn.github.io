@@ -4,7 +4,7 @@ subtitle: Galapagos Optimization
 tag: research
 modal-id: solar
 thumbnail: 4.jpg
-
+layout: nil
 ---
 <table class="table__research">
     <tbody>

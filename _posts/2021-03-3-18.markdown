@@ -4,7 +4,7 @@ subtitle:
 tag: professional
 modal-id: Yulon
 thumbnail: 18.jpg
-
+layout: nil
 ---
 <table class="table__professional">
     <tbody>
