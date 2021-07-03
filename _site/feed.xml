@@ -5,8 +5,8 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jul 2021 15:00:31 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Jul 2021 15:00:31 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jul 2021 15:29:56 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Jul 2021 15:29:56 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -41,10 +41,36 @@
 &lt;/table&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Instructors:
-Elif Erdine - Architectural Association (AA) School of Architecture,Programme Head, Emergent Technologies &amp;amp; Design (EmTech) Post-Graduate Programme
-Milad Showkatbakhsh - Architectural Association (AA) School of Architecture,Studio Master at Emergent Technologies and Design (EmTech) Postgraduate Programme
-Abhinav Chaudhary - EmTech, Architectural Association School of Architecture,Tutor&lt;/p&gt;
+&lt;p&gt;Instructors: &lt;br /&gt;&lt;/p&gt;
+&lt;table class=&quot;table__research&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Elif Erdine&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Architectural Association (AA) School of Architecture,Programme Head, Emergent Technologies &amp;amp; Design (EmTech) Postgraduate Programme
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Milad Showkatbakhsh
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Architectural Association (AA) School of Architecture, Studio Master at Emergent Technologies and Design (EmTech) Postgraduate Programme 
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Abhinav Chaudhary
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Architectural Association (AA) School of Architecture, Tutor at Emergent Technologies and Design (EmTech) Postgraduate Programme 
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;  In this 5-day workshop, participants were introduced to the research carried out by EmTech on robotic fabrication and design. Each session was structured to present participants to some of the key computational techniques employed in generative form-finding (including physics simulations and aggregation-based design and modelling), multi-objective optimization, robotic tool-path planning, and material intelligence.&lt;/p&gt;
 

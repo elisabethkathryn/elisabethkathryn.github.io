@@ -36,10 +36,38 @@ layout: nil
 </table>
 <br>
 
-Instructors:
-Elif Erdine - Architectural Association (AA) School of Architecture,Programme Head, Emergent Technologies & Design (EmTech) Post-Graduate Programme
-Milad Showkatbakhsh - Architectural Association (AA) School of Architecture,Studio Master at Emergent Technologies and Design (EmTech) Postgraduate Programme
-Abhinav Chaudhary - EmTech, Architectural Association School of Architecture,Tutor
+Instructors: <br>
+<table class="table__research">
+    <tbody>
+        <tr>
+            <td>
+                Elif Erdine&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Architectural Association (AA) School of Architecture,Programme Head, Emergent Technologies & Design (EmTech) Postgraduate Programme
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Milad Showkatbakhsh
+            </td>
+            <td>
+                : Architectural Association (AA) School of Architecture, Studio Master at Emergent Technologies and Design (EmTech) Postgraduate Programme 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Abhinav Chaudhary
+            </td>
+            <td>
+                : Architectural Association (AA) School of Architecture, Tutor at Emergent Technologies and Design (EmTech) Postgraduate Programme 
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
 
 &emsp;&emsp;In this 5-day workshop, participants were introduced to the research carried out by EmTech on robotic fabrication and design. Each session was structured to present participants to some of the key computational techniques employed in generative form-finding (including physics simulations and aggregation-based design and modelling), multi-objective optimization, robotic tool-path planning, and material intelligence.
 
