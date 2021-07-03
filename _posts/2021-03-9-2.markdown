@@ -7,7 +7,7 @@ layout: news
 permalink: /blog/beyond-parametric-gimmick.html
 show_home: true
 ---
-Beyond the gimmick of aesthetically “fancy” parametric design: what is the essence of parametric design, how it differs from geometric design, what are the applications of parametric design, and personal project sharing. (delivered in Bahasa)
+Beyond the gimmick of aesthetically “fancy” parametric design: what is the essence of parametric design, how it differs from generic geometric design, what are the applications of parametric design, and personal project sharing. (delivered in Bahasa)
 <div style="position:relative;padding-top:56.25%;">
 <iframe width="100%" src="https://www.youtube.com/embed/qdA-AmAxaiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
 </div>
