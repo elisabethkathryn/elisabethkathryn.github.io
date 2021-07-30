@@ -5,9 +5,106 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jul 2021 15:29:56 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Jul 2021 15:29:56 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jul 2021 15:13:30 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Jul 2021 15:13:30 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Timber Tectonics</title>
+        <description>&lt;table class=&quot;table__research&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Workshop
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : 2021
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Institution
+            &lt;/td&gt;
+            &lt;td&gt;
+                : CAAD Futures 2021;
+                Zaha Hadid Architects, Computation &amp;amp; Design Group (ZH CODE), London, UK;
+                University of Calgary SAPL, Calgary, Canada
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/portfolio/21/21A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Timber Tectonics&quot; /&gt;
+&lt;img src=&quot;images/portfolio/21/21B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Timber Tectonics 2&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table__research&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Team&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Aria Sanei, Sania Halim
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+Instructors&lt;/p&gt;
+&lt;table class=&quot;table__research&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Vishu Bhooshan&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Lead Designer at Zaha Hadid Architects, Computation and Design Research group (ZH CODE), London;
+                Teacher at Architectural Computation &amp;amp; Architectural Design, Bartlett post-graduate programs (BPro), University College of London
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Henry David Louth
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Lead Designer at Zaha Hadid Architects, Computation and Design Research group (ZH CODE), London 
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Alicia Nahmad Vazquez
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Founder of Architecture Extrapolated (R-Ex) 
+                Assistant professor of robotics and AI in architecture at the University of Calgary;
+                Studio master at the Architectural Association DRL master’s program
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;  The geometry is defined using ZHCODE’s 3D Graphic Statics tool which generates compression only funicular structures. Static equilibrium of the structures is described using two reciprocal force and form diagrams. Further exploration of timber materiality, joinery details, and robotic digital fabrication was also conducted as one integrative process in this workshop.
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/07/30/21.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/07/30/21.html</guid>
+        
+        <category>research</category>
+        
+        
+      </item>
     
       <item>
         <title>Fabricating Complexity</title>
@@ -18,7 +115,7 @@
                 Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
             &lt;/td&gt;
             &lt;td&gt;
-                : 5-day workshop
+                : Workshop
             &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -40,6 +137,10 @@
     &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/7zLxhZywafw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 
 &lt;p&gt;Instructors: &lt;br /&gt;&lt;/p&gt;
 &lt;table class=&quot;table__research&quot;&gt;
@@ -76,11 +177,6 @@
 
 &lt;p&gt;  Full recording of this workshop can be accessed through:
  &lt;a href=&quot;https://www.facebook.com/EmtechStudio/&quot;&gt; https://www.facebook.com/EmtechStudio/ &lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe src=&quot;https://www.youtube.com/embed/7zLxhZywafw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
 </description>
         <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/07/03/20.html</link>
@@ -450,61 +546,6 @@ Image source: &lt;a href=&quot;https://id.pinterest.com/pin/427842033331761955/&
         <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/03/01/14.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/01/14.html</guid>
-        
-        <category>professional</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>LaLaport Nangang</title>
-        <description>&lt;table class=&quot;table__professional&quot;&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Gomore Building Envelope Technology
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Scope of work
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Tender stage – tower and podium glass curtain wall, podium metal roof
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Architect
-            &lt;/td&gt;
-            &lt;td&gt;
-                : C.Y. Lee &amp;amp; Partners 李祖原聯合建築師事務所
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Personal roles
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Building facade parametric 3D modeling &lt;br /&gt;
-                Model's information extraction (material quantity)
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;images/portfolio/13/13B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;images/portfolio/13/13A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang&quot; /&gt;
-Image source: &lt;a href=&quot;https://tw-landmark.blogspot.com/2019/06/lalaport-nangang.html&quot;&gt; https://www.archdaily.com/903677/kaohsiung-station-mecanoo &lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2021/03/01/13.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/01/13.html</guid>
         
         <category>professional</category>
         

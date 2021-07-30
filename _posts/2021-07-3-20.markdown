@@ -13,7 +13,7 @@ layout: nil
                 Project Type&nbsp;&nbsp;&nbsp;
             </td>
             <td>
-                : 5-day workshop
+                : Workshop
             </td>
         </tr>
         <tr>
@@ -35,6 +35,12 @@ layout: nil
     </tbody>
 </table>
 <br>
+
+
+<div class="video-container">
+<iframe  src="https://www.youtube.com/embed/7zLxhZywafw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+
 
 Instructors: <br>
 <table class="table__research">
@@ -67,14 +73,7 @@ Instructors: <br>
 </table>
 <br>
 
-
-
 &emsp;&emsp;In this 5-day workshop, participants were introduced to the research carried out by EmTech on robotic fabrication and design. Each session was structured to present participants to some of the key computational techniques employed in generative form-finding (including physics simulations and aggregation-based design and modelling), multi-objective optimization, robotic tool-path planning, and material intelligence.
 
 &emsp;&emsp;Full recording of this workshop can be accessed through:
  <a href="https://www.facebook.com/EmtechStudio/"> https://www.facebook.com/EmtechStudio/ </a>
-
-<div class="video-container">
-<iframe  src="https://www.youtube.com/embed/7zLxhZywafw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
-

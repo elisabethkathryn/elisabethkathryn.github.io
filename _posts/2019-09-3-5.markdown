@@ -35,8 +35,10 @@ layout: nil
     </tbody>
 </table>
 <br>
-&emsp;&emsp;Phyllotaxis pattern, the arrangement of plant’s leaves around its stem, was studied and applied into high-rise building design. Although plant has a bunch of leaf layers which are arranged vertically, each leaf can absorb enough solar radiation to do photosynthesis. Just like plant, this algorithm enables high-rise building, which normally tends to have limited access to daylight and solar radiation, to have more natural exposure. To define a clear research scope, urban farming tower in Singapore was chosen to be a specific topic to evaluate the building performance in this research. The main objectives were maximizing the floor area while optimizing the solar radiation and duration in each day as needed by the crops. Nearly a thousand different
-parameter combinations were simulated and compared to find the best possible pattern.
 
 <img src="images/portfolio/5/5A.jpg" class="img-responsive img-centered" alt="Phyllotaxis High-rise Building">
 <img src="images/portfolio/5/5B.jpg" class="img-responsive img-centered" alt="Phyllotaxis High-rise Building">
+<br>
+
+&emsp;&emsp;Phyllotaxis pattern, the arrangement of plant’s leaves around its stem, was studied and applied into high-rise building design. Although plant has a bunch of leaf layers which are arranged vertically, each leaf can absorb enough solar radiation to do photosynthesis. Just like plant, this algorithm enables high-rise building, which normally tends to have limited access to daylight and solar radiation, to have more natural exposure. To define a clear research scope, urban farming tower in Singapore was chosen to be a specific topic to evaluate the building performance in this research. The main objectives were maximizing the floor area while optimizing the solar radiation and duration in each day as needed by the crops. Nearly a thousand different
+parameter combinations were simulated and compared to find the best possible pattern.
