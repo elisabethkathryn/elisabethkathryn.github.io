@@ -1,0 +1,95 @@
+---
+title: Timber Tectonics
+subtitle: 3D Graphic Statics
+tag: research
+modal-id: timber
+thumbnail: 21.jpg
+layout: nil
+---
+<table class="table__research">
+    <tbody>
+        <tr>
+            <td>
+                Project Type&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Workshop
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Year
+            </td>
+            <td>
+                : 2021
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Institution
+            </td>
+            <td>
+                : CAAD Futures 2021;
+                Zaha Hadid Architects, Computation & Design Group (ZH CODE), London, UK;
+                University of Calgary SAPL, Calgary, Canada
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<img src="images/portfolio/21/21A.jpg" class="img-responsive img-centered" alt="Timber Tectonics">
+<img src="images/portfolio/21/21B.jpg" class="img-responsive img-centered" alt="Timber Tectonics 2">
+<br>
+
+<table class="table__research">
+    <tbody>
+        <tr>
+            <td>
+                Team&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Aria Sanei, Sania Halim
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+Instructors
+<table class="table__research">
+    <tbody>
+        <tr>
+            <td>
+                Vishu Bhooshan&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Lead Designer at Zaha Hadid Architects, Computation and Design Research group (ZH CODE), London;
+                Teacher at Architectural Computation & Architectural Design, Bartlett post-graduate programs (BPro), University College of London
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Henry David Louth
+            </td>
+            <td>
+                : Lead Designer at Zaha Hadid Architects, Computation and Design Research group (ZH CODE), London 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Alicia Nahmad Vazquez
+            </td>
+            <td>
+                : Founder of Architecture Extrapolated (R-Ex) 
+                Assistant professor of robotics and AI in architecture at the University of Calgary;
+                Studio master at the Architectural Association DRL master’s program
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+&emsp;&emsp;The geometry is defined using ZHCODE’s 3D Graphic Statics tool which generates compression only funicular structures. Static equilibrium of the structures is described using two reciprocal force and form diagrams. Further exploration of timber materiality, joinery details, and robotic digital fabrication was also conducted as one integrative process in this workshop.
+<br>
