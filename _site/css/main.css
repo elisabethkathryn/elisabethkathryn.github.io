@@ -187,7 +187,7 @@ sub { font-size: 0.8em; position: relative; top: 0.5em; }
 
 sup { font-size: 0.8em; position: relative; top: -0.5em; }
 
-hr { border: 0; border-bottom: solid 2px #fff; margin: 3em 0; }
+hr { border: 0; border-bottom: solid 1px #fff; }
 
 hr.major { margin: 4.5em 0; }
 
@@ -891,13 +891,13 @@ body.is-mobile #main > header { background-attachment: scroll; }
 
 .grayscale { -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ filter: grayscale(100%); }
 
-.portfolio-modal .modal-content { padding: 100px 0; min-height: 100%; min-width: 100%; z-index: 10001; left: 0; top: 0; position: fixed; border: 0; border-radius: 0; text-align: center; background-clip: border-box; -webkit-box-shadow: none; box-shadow: none; background-color: #222; max-height: calc(100vh - 210px); overflow-y: auto; }
+.portfolio-modal .modal-content { min-height: 100%; min-width: 100%; z-index: 10001; left: 0; top: 0; position: fixed; border: 0; border-radius: 0; text-align: center; background-clip: border-box; -webkit-box-shadow: none; box-shadow: none; background-color: #222; max-height: calc(100vh - 210px); overflow-y: auto; }
 
 .portfolio-modal .modal-content .container { max-width: 100%; }
 
-.portfolio-modal .modal-content h2 { margin-bottom: 15px; font-size: 2em; }
+.portfolio-modal .modal-content h2 { margin-bottom: 15px; font-size: 1.2em; }
 
-.portfolio-modal .modal-content p { margin-bottom: 30px; text-align: left; }
+.portfolio-modal .modal-content p { margin: 0; font-size: 0.8em; text-align: justify; }
 
 .portfolio-modal .modal-content p.item-intro { margin: 20px 0 30px; font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif; font-size: 16px; font-style: italic; }
 
@@ -913,9 +913,9 @@ body.is-mobile #main > header { background-attachment: scroll; }
 
 .portfolio-modal .close-modal:hover { opacity: .3; }
 
-.portfolio-modal .close-modal .lr { z-index: 10002; width: 1px; height: 75px; margin-left: 35px; background-color: white; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+.portfolio-modal .close-modal .lr { z-index: 10002; width: 1px; height: 20px; margin-left: 35px; background-color: white; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
 
-.portfolio-modal .close-modal .lr .rl { z-index: 10003; width: 1px; height: 75px; background-color: white; -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg); }
+.portfolio-modal .close-modal .lr .rl { z-index: 10003; width: 1px; height: 20px; background-color: white; -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg); }
 
 .modal-body { padding-left: 10%; padding-top: 3em; max-width: 90%; text-align: left; }
 
@@ -955,8 +955,14 @@ body.is-mobile.landing #banner, body.is-mobile.landing .wrapper.style4 { backgro
 
 body.is-mobile.landing #footer { background-color: #1d242a; }
 
+.table__professional td { font-size: 0.8em; }
+
 .table__professional tr > :first-child { width: 10em; }
 
+.table__research td { font-size: 0.8em; }
+
 .table__research tr > :first-child { width: 10em; }
+
+.close-modal-btn { margin: 3em 0; font-size: 0.6em; }
 
 /*# sourceMappingURL=main.css.map */
