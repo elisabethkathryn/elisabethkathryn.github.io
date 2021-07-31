@@ -36,5 +36,3 @@ layout: nil
 </table>
 <br>
 <img src="images/portfolio/1/1A.jpg" class="img-responsive img-centered" alt="Voronoi Surface">
-<img src="images/portfolio/1/1B.jpg" class="img-responsive img-centered" alt="Voronoi Surface">
-

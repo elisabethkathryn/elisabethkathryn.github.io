@@ -81,7 +81,7 @@ Instructors
                 Alicia Nahmad Vazquez
             </td>
             <td>
-                : Founder of Architecture Extrapolated (R-Ex) 
+                : Founder of Architecture Extrapolated (R-Ex);
                 Assistant professor of robotics and AI in architecture at the University of Calgary;
                 Studio master at the Architectural Association DRL master’s program
             </td>
