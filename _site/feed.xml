@@ -5,9 +5,67 @@
     <description>Parametric | Sustainable Architecture Design</description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Jul 2021 15:10:00 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Jul 2021 15:10:00 +0000</lastBuildDate>
+    <pubDate>Tue, 24 May 2022 03:30:57 +0000</pubDate>
+    <lastBuildDate>Tue, 24 May 2022 03:30:57 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Fluid Tower</title>
+        <description>&lt;table class=&quot;table__research&quot;&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Project Type&amp;nbsp;&amp;nbsp;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Master Class
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Year
+            &lt;/td&gt;
+            &lt;td&gt;
+                : 2021 
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Instructor
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Mariana Cabugueira (currently working at Zaha Hadid Architects and teaching at the Architectural Association in London)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;
+                Organizer
+            &lt;/td&gt;
+            &lt;td&gt;
+                : Futurly
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DDtsidtiS1s&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/portfolio/22/22A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;  This master class explored the possibility of fluid 3D modeling in Autodesk Maya and the workflow to produce 2D drawings in Rhino as implemented by professional practices like Zaha Hadid Architects.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/2021/12/08/22.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2021/12/08/22.html</guid>
+        
+        <category>research</category>
+        
+        
+      </item>
     
       <item>
         <title>Timber Tectonics</title>
@@ -492,60 +550,6 @@ Image source: &lt;a href=&quot;https://id.pinterest.com/pin/427842033331761955/&
         <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/2021/03/02/10.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/02/10.html</guid>
-        
-        <category>professional</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>LaLaport Nangang Skybridge</title>
-        <description>&lt;table class=&quot;table__professional&quot;&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Company&amp;nbsp;&amp;nbsp;&amp;nbsp;
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Gomore Building Envelope Technology
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Scope of work
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Tender stage – skybridge metal cladding and glass facade
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Architect
-            &lt;/td&gt;
-            &lt;td&gt;
-                : C.Y. Lee &amp;amp; Partners 李祖原聯合建築師事務所
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;
-                Personal roles
-            &lt;/td&gt;
-            &lt;td&gt;
-                : Building facade parametric 3D modeling &lt;br /&gt;
-                Model's information extraction (material quantity, element's unique code, type and location)
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;images/portfolio/14/14A.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang Skybridge&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;images/portfolio/14/14B.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;LaLaport Nangang Skybridge&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/2021/03/01/14.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/2021/03/01/14.html</guid>
         
         <category>professional</category>
         
