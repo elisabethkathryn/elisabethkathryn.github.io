@@ -1,0 +1,55 @@
+---
+title: Fluid Tower
+subtitle: Fluid 3D Modeling
+tag: research
+modal-id: fluid
+thumbnail: 22.jpg
+layout: nil
+---
+<table class="table__research">
+    <tbody>
+        <tr>
+            <td>
+                Project Type&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                : Master Class
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Year
+            </td>
+            <td>
+                : 2021 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Instructor
+            </td>
+            <td>
+                : Mariana Cabugueira (currently working at Zaha Hadid Architects and teaching at the Architectural Association in London)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Organizer
+            </td>
+            <td>
+                : Futurly
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDtsidtiS1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+
+<img src="images/portfolio/22/22A.jpg" class="img-responsive img-centered" alt="Fluid">
+
+&emsp;&emsp;This master class explored the possibility of fluid 3D modeling in Autodesk Maya and the workflow to produce 2D drawings in Rhino as implemented by professional practices like Zaha Hadid Architects.
+
